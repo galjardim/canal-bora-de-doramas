@@ -1,4 +1,4 @@
-const CACHE='bora-doramas-v3';
+const CACHE='bora-doramas-v4-20261015';
 const SHELL=['./','./index.html','./manifest.webmanifest','./imagens.js?v=3','./icons/icon-192.png','./icons/icon-512.png','./icons/apple-touch-icon.png'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)))});
 self.addEventListener('activate',e=>{e.waitUntil((async()=>{for(const k of await caches.keys())if(k!==CACHE)await caches.delete(k);await self.clients.claim()})())});
