@@ -197,7 +197,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Bai Xinyi",
@@ -307,7 +308,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Bai Yan",
@@ -484,7 +486,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2023
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Cao Tiankai",
@@ -693,7 +696,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Chen Fangtong",
@@ -776,7 +780,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Chen Ruifeng",
@@ -1415,7 +1420,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Chen Tianxiang",
@@ -1662,7 +1668,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Cheng Yufeng",
@@ -1955,7 +1962,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Dai Gaozheng",
@@ -2272,7 +2280,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Dong Yi",
@@ -2448,7 +2457,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Du Yafei",
@@ -2619,7 +2629,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Fang Zhengnan",
@@ -2778,7 +2789,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Fu Hanyuan",
@@ -2857,7 +2869,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Gan Wangxing",
@@ -2953,7 +2966,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "GANGTIE ROUROU (Li Lei)",
@@ -3040,7 +3054,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Guo Yuxin",
@@ -3266,7 +3281,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Han Jiahui",
@@ -3437,7 +3453,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Han Qi",
@@ -3582,7 +3599,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Han Yutong",
@@ -3892,7 +3910,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "He Congrui",
@@ -4582,7 +4601,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Huang Haowen",
@@ -4706,7 +4726,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Huang Wenbo",
@@ -4962,7 +4983,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Ji Ho-Geun",
@@ -5005,7 +5027,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Jin Jiayu",
@@ -5232,7 +5255,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 11/10/2026"
   },
   {
     "name": "Ke Chun",
@@ -5324,7 +5348,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Lan Lan",
@@ -5515,7 +5540,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Li Keyi",
@@ -5818,7 +5844,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Li Mengran",
@@ -6013,7 +6040,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Li Muyang",
@@ -6096,7 +6124,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Li Quanchen",
@@ -6157,7 +6186,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Li Shengjie",
@@ -6231,7 +6261,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Li Zhuoyang",
@@ -6391,7 +6422,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Liang Siwei",
@@ -6863,7 +6895,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Lin Fengsong",
@@ -7188,7 +7221,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Liu Haoqun",
@@ -7231,7 +7265,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Liu Lanbo",
@@ -7476,7 +7511,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Liu Qing",
@@ -7611,7 +7647,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2023
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Liu Xiaoxu",
@@ -7901,7 +7938,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Liu Xiyu",
@@ -8186,7 +8224,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Liu Yanchen",
@@ -8319,7 +8358,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Liu Yuhang",
@@ -8461,7 +8501,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Lu Huanyu",
@@ -8548,7 +8589,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Ma Lejie",
@@ -8855,7 +8897,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Ma Shuoqi",
@@ -9026,7 +9069,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 12/10/2026"
   },
   {
     "name": "Ma Xiaoyu",
@@ -9235,7 +9279,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Meng Na",
@@ -9552,7 +9597,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Min Jie",
@@ -9779,7 +9825,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Shao Wei",
@@ -9970,7 +10017,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Shen Haonan",
@@ -10278,7 +10326,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Shi Kang",
@@ -10415,7 +10464,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Shu Tong",
@@ -10458,7 +10508,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Chenpeng",
@@ -10622,7 +10673,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Daotie",
@@ -10899,7 +10951,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Gege",
@@ -11090,7 +11143,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Haozhen",
@@ -11361,7 +11415,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Haozhen (Ben Wang)",
@@ -11699,7 +11754,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Huilong",
@@ -11804,7 +11860,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Kaimu",
@@ -12654,7 +12711,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Xingwei",
@@ -12725,7 +12783,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2026
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Wang Xuan",
@@ -13165,7 +13224,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Yiran",
@@ -13503,7 +13563,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Yuhan",
@@ -13573,7 +13634,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wang Zilin",
@@ -13902,7 +13964,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Wu Tianhao",
@@ -14102,7 +14165,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Xia Ningjun",
@@ -14163,7 +14227,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Xiao Haoran",
@@ -14358,7 +14423,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Yang Bingzhuo",
@@ -14429,7 +14495,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2026
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Yang Han",
@@ -14508,7 +14575,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Yang Shuyu",
@@ -14650,7 +14718,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Yang Yilu",
@@ -14791,7 +14860,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Yi Hang",
@@ -15269,7 +15339,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Yu Peishan",
@@ -15346,7 +15417,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
     "name": "Yu Yin",
@@ -15648,7 +15720,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Yue Yuting",
@@ -16135,7 +16208,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhai Yiying",
@@ -16699,7 +16773,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhang Beixi",
@@ -17294,7 +17369,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhang Hongming",
@@ -17493,7 +17569,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhang Jinyi",
@@ -17814,7 +17891,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhang Junya",
@@ -17881,7 +17959,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
   },
   {
     "name": "Zhang Xuan",
@@ -18049,7 +18128,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por GAL - @GAL_HUAYUAN em 12/10/2026"
   },
   {
     "name": "Zhang Yiyang",
@@ -18146,7 +18226,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhao Guanyu",
@@ -18306,7 +18387,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhao Jia",
@@ -18561,7 +18643,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Zhao Tingyi",
@@ -18801,7 +18884,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhao Zhendong",
@@ -19100,7 +19184,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhen Ziqi",
@@ -19210,7 +19295,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zheng Chenyu",
@@ -19469,7 +19555,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2024
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Zheng Kaiyi",
@@ -19543,7 +19630,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zhou Jiayi",
@@ -19664,7 +19752,8 @@ window.CATALOG_ARTISTS = [
         ],
         "year": 2025
       }
-    ]
+    ],
+    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
   },
   {
     "name": "Zhu Yiwei",
@@ -19783,7 +19872,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
     "name": "Zuo Yi",
@@ -20009,7 +20099,8 @@ window.CATALOG_ARTISTS = [
           }
         ]
       }
-    ]
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
   }
 ];
 window.CATALOG_DRAMAS = [
