@@ -115,8 +115,8 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
 <body>
 <div id="bora-catalogo"></div>
 <div class="install-banner" id="install-banner" aria-live="polite"><img src="icons/icon-192.png" alt=""><div class="install-copy"><strong>Canal Bora de Doramas</strong><span>Instale o catálogo no celular para abrir como app.</span></div><button class="install-btn" id="install-btn" type="button">Instalar</button><button class="install-dismiss" id="install-dismiss" type="button" aria-label="Fechar">×</button></div>
-<script src="./catalogo.js?v=20261015"></script>
-<script src="./imagens.js?v=20261015"></script>
+<script src="./catalogo.js?v=20261019"></script>
+<script src="./imagens.js?v=20261019"></script>
 <script>
 (function () {
   'use strict';
@@ -129,7 +129,8 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
     ['Enemies to lovers', '/theme-enemies.webp'],
     ['Transmigração', '/theme-transmigration.webp'],
     ['Máfia', '/theme-mafia.webp'],
-    ['Homens obcecados', '/theme-obsession.webp']
+    ['Homens obcecados', '/theme-obsession.webp'],
+    ['Feitos por IA', '/theme-ai.webp']
   ];
   const cast = [...new Set(dramas.flatMap(d => d.cast || []))].sort((a,b) => a.localeCompare(b, 'pt-BR'));
   const state = {tab:'artistas', artistQuery:'', group:'Todos', selected:null, listQuery:'', theme:'Enemies to lovers', actor:'Todos', themeQuery:''};

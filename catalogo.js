@@ -1,4 +1,4 @@
-/* Catálogo atualizado a partir das notas marcadas do Google Keep, 15/10/2026 */
+/* Catálogo Bora de Doramas: atualização 19/10/2026; créditos originais preservados */
 window.CATALOG_ARTISTS = [
   {
     "name": "Bai Fangwen",
@@ -700,6 +700,94 @@ window.CATALOG_ARTISTS = [
     "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
   },
   {
+    "name": "Chang Gao Ming",
+    "kind": "Ator",
+    "image": "/artists/chang-gao-ming.webp",
+    "dramas": [
+      {
+        "title": "A DESPEDIDA DEFINITIVA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4498"
+          }
+        ]
+      },
+      {
+        "title": "SR. LEONARDO, ELA É SEU VERDADEIRO AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4844"
+          }
+        ]
+      },
+      {
+        "title": "PASSOS DE LÓTUS ERRADOS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6086"
+          }
+        ]
+      },
+      {
+        "title": "LAÇOS DO DESTINO: AMOR RESGATADO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8454"
+          }
+        ]
+      },
+      {
+        "title": "MEU MARIDO TEM UM NOME SECRETO (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/10299"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/9134"
+          }
+        ]
+      },
+      {
+        "title": "CASEI COM O INIMIGO DO MEU EX (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/10473"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/10475"
+          }
+        ]
+      },
+      {
+        "title": "DIVORCIEI E MEU EX PIROU POR MIM (2023)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11093"
+          }
+        ]
+      },
+      {
+        "title": "NÃO PERDOO, NÃO VOLTO, VOU ME DIVORCIAR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12092"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 17/10/2026"
+  },
+  {
     "name": "Chen Fangtong",
     "kind": "Atriz",
     "image": "/artists/chen-fangtong.webp",
@@ -782,6 +870,189 @@ window.CATALOG_ARTISTS = [
       }
     ],
     "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+  },
+  {
+    "name": "Chen Gang",
+    "kind": "Ator",
+    "image": "/artists/chen-gang.webp",
+    "dramas": [
+      {
+        "title": "AMOR QUE ARDE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2096"
+          }
+        ]
+      },
+      {
+        "title": "MARÉS DO DESTINO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3062"
+          }
+        ]
+      },
+      {
+        "title": "NO DIA EM QUE ELA SUMIU, ELE PIROU DE VEZ (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/3286"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/5644"
+          }
+        ]
+      },
+      {
+        "title": "LIBERTE-SE DO AMOR ABISSAL (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3416"
+          }
+        ]
+      },
+      {
+        "title": "FILHA DO DESEJO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4211"
+          }
+        ]
+      },
+      {
+        "title": "CONFUSÃO DE NOIVAS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4251"
+          }
+        ]
+      },
+      {
+        "title": "PAPAI MISTERIOSO É UM MAGNATA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4398"
+          }
+        ]
+      },
+      {
+        "title": "CASADOS PARA SEMPRE (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4765"
+          }
+        ]
+      },
+      {
+        "title": "CAOS SEDUTOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5025"
+          }
+        ]
+      },
+      {
+        "title": "POEIRA E ESTRELAS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5516"
+          }
+        ]
+      },
+      {
+        "title": "O CEO FINGIU AMNÉSIA SÓ PARA ME RECONQUISTAR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7508"
+          }
+        ]
+      },
+      {
+        "title": "BLOQUEEI MEU MARIDO MILIONÁRIO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8121"
+          }
+        ]
+      },
+      {
+        "title": "NO BRAÇOS DO HERDEIRO SELVAGEM (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9009"
+          }
+        ]
+      },
+      {
+        "title": "SER UMA UROLOGISTA FEMININA (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10066"
+          }
+        ]
+      },
+      {
+        "title": "MINHA IRMÃ ADOTIVA TIROU TUDO DE MIM (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11534"
+          }
+        ]
+      },
+      {
+        "title": "APAIXONADO PELA ESPOSA DE ALUGUEL (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12100"
+          }
+        ]
+      },
+      {
+        "title": "AMOR QUE MATA E VIVE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12379"
+          }
+        ]
+      },
+      {
+        "title": "MEU MARIDO DE CONTRATO QUER VIRAR REAL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13155"
+          }
+        ]
+      },
+      {
+        "title": "MEU CHEFE, PAI DO MEU BEBÊ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13971"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 17/10/2026"
   },
   {
     "name": "Chen Ruifeng",
@@ -10468,6 +10739,108 @@ window.CATALOG_ARTISTS = [
     "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
   },
   {
+    "name": "Shi Tong",
+    "kind": "Atriz",
+    "image": "/artists/shi-tong.webp",
+    "dramas": [
+      {
+        "title": "SUA FLOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3261"
+          }
+        ]
+      },
+      {
+        "title": "PREFIRA A MIM (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5616"
+          }
+        ]
+      },
+      {
+        "title": "ARREPENDIDO A LUTA PELA EX",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9666"
+          }
+        ]
+      },
+      {
+        "title": "AMO-TE COMO NO INÍCIO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10381"
+          }
+        ]
+      },
+      {
+        "title": "ELA E O DEMÔNIO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10635"
+          }
+        ]
+      },
+      {
+        "title": "CASAMENTO ANTES AMOR SECRETO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12071"
+          }
+        ]
+      },
+      {
+        "title": "DESEJOS NA NÉVOA (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/12324"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12180"
+          }
+        ]
+      },
+      {
+        "title": "A ÁS DO ROMANCE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12267"
+          }
+        ]
+      },
+      {
+        "title": "RUMO AO TOPO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13937"
+          }
+        ]
+      },
+      {
+        "title": "DE VOLTA AOS 18 (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14549"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 17/10/2026"
+  },
+  {
     "name": "Shu Tong",
     "kind": "Ator",
     "image": "/artists/shu-tong.webp",
@@ -10510,6 +10883,179 @@ window.CATALOG_ARTISTS = [
       }
     ],
     "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+  },
+  {
+    "name": "Wang Bo",
+    "kind": "Ator",
+    "image": "/artists/wang-bo.webp",
+    "dramas": [
+      {
+        "title": "CORRA RÁPIDO PAPAI! A MAMÃE FUGIU DE NOVO! (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1402"
+          }
+        ]
+      },
+      {
+        "title": "O AMOR DE SEMPRE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1628"
+          }
+        ]
+      },
+      {
+        "title": "O ESPELHO DO AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1925"
+          }
+        ]
+      },
+      {
+        "title": "NOVAMENTE AO SEU LADO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3015"
+          }
+        ]
+      },
+      {
+        "title": "CASAMENTO RELÂMPAGO COM ESPOSA LEGISTA (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/4076"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/4078"
+          }
+        ]
+      },
+      {
+        "title": "A MADRASTA DO FUTURO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4747"
+          }
+        ]
+      },
+      {
+        "title": "VISLUMBRE O SUSSURRO DO CERVO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5566"
+          }
+        ]
+      },
+      {
+        "title": "ADEUS AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5660"
+          }
+        ]
+      },
+      {
+        "title": "AMOR PERDIDO NO PASSADO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5715"
+          }
+        ]
+      },
+      {
+        "title": "ATÉ VOCÊ CAIR POR MIM (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6886"
+          }
+        ]
+      },
+      {
+        "title": "ENCANTO DO INVERNO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7052"
+          }
+        ]
+      },
+      {
+        "title": "OS GÊMEOS TRAVESSOS: PAPAI, ALCANCE MAMÃE ESTÁ FUGINDO DE NOVO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8109"
+          }
+        ]
+      },
+      {
+        "title": "99 DIAS DE AMOR, NÃO CHORE CEO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8280"
+          }
+        ]
+      },
+      {
+        "title": "SEU AMOR FOI O DESTINO DO QUAL EU NÃO CONSEGUI ESCAPAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9063"
+          }
+        ]
+      },
+      {
+        "title": "PARA O RESTO DA VIDA, SEM VOCÊ (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/9393"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/10846"
+          }
+        ]
+      },
+      {
+        "title": "MÃE POR AMOR ESPOSA POR DESTINO (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/12626"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12628"
+          }
+        ]
+      },
+      {
+        "title": "MÃE, NÃO TEMA - A ESTRELA DA SORTE CHEGOU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12755"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 17/10/2026"
   },
   {
     "name": "Wang Chenpeng",
@@ -15419,6 +15965,103 @@ window.CATALOG_ARTISTS = [
       }
     ],
     "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+  },
+  {
+    "name": "Yu Xuanhonghao",
+    "kind": "Ator",
+    "image": "/artists/yu-xuanhonghao.webp",
+    "dramas": [
+      {
+        "title": "MAGNATA SECRETO AMOR REVELADO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/837"
+          }
+        ]
+      },
+      {
+        "title": "O PRÍNCIPE FRIO QUEBROU POR AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4169"
+          }
+        ]
+      },
+      {
+        "title": "ATRAVÉS DE OITO ANOS-LUZ (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4263"
+          }
+        ]
+      },
+      {
+        "title": "A DANÇA PERDIDA (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/5448"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/8724"
+          }
+        ]
+      },
+      {
+        "title": "CHEGOU TARDE A SRTA XAVIA É EXTREMAMENTE AMADA (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/7038"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/8997"
+          }
+        ]
+      },
+      {
+        "title": "ELA AINDA MANDA DEPOIS DO DIVÓRCIO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7402"
+          }
+        ]
+      },
+      {
+        "title": "A FILHA ABANDONADA VOLTOU COMO RAINHA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10139"
+          }
+        ]
+      },
+      {
+        "title": "ENCONTRO ÀS CEGAS COM O CHEFÃO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12073"
+          }
+        ]
+      },
+      {
+        "title": "SEIS ANOS LONGE DE VOCÊ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14428"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 17/10/2026"
   },
   {
     "name": "Yu Yin",
@@ -22026,7 +22669,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22039,7 +22682,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22052,7 +22695,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22065,7 +22708,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22078,7 +22721,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22091,7 +22734,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22104,7 +22747,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22117,7 +22760,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22130,7 +22773,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22143,7 +22786,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22160,7 +22803,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22173,7 +22816,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22186,7 +22829,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22199,7 +22842,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22212,7 +22855,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22225,7 +22868,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22238,7 +22881,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22251,7 +22894,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22264,7 +22907,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22277,7 +22920,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22290,7 +22933,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22303,7 +22946,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22316,7 +22959,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22329,7 +22972,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22342,7 +22985,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22355,7 +22998,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22368,7 +23011,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22381,7 +23024,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22394,7 +23037,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22407,7 +23050,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22420,7 +23063,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22433,7 +23076,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22446,7 +23089,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22459,7 +23102,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22472,7 +23115,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22485,7 +23128,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22498,7 +23141,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22511,7 +23154,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22524,7 +23167,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22537,7 +23180,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22550,7 +23193,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22563,7 +23206,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22576,7 +23219,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22589,7 +23232,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22602,7 +23245,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22615,7 +23258,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22628,7 +23271,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22641,7 +23284,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22654,7 +23297,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22667,7 +23310,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22680,7 +23323,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22693,7 +23336,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22706,7 +23349,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22719,7 +23362,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22732,7 +23375,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22745,7 +23388,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22758,7 +23401,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22771,7 +23414,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22784,7 +23427,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22797,7 +23440,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22810,7 +23453,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22823,7 +23466,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22836,7 +23479,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22849,7 +23492,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22862,7 +23505,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22875,7 +23518,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22888,7 +23531,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22901,7 +23544,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22914,7 +23557,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22927,7 +23570,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22940,7 +23583,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22957,7 +23600,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22970,7 +23613,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22983,7 +23626,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -22996,7 +23639,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23009,7 +23652,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23022,7 +23665,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23035,7 +23678,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23048,7 +23691,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23061,7 +23704,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23074,7 +23717,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23087,7 +23730,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23100,7 +23743,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23113,7 +23756,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23126,7 +23769,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23139,7 +23782,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23152,7 +23795,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23165,7 +23808,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23178,7 +23821,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23191,7 +23834,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23204,7 +23847,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23217,7 +23860,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23230,7 +23873,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23243,7 +23886,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23256,7 +23899,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23269,7 +23912,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23282,7 +23925,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23295,7 +23938,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23308,7 +23951,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23321,7 +23964,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23334,7 +23977,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23347,7 +23990,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23360,7 +24003,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23373,7 +24016,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23386,7 +24029,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23399,7 +24042,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23412,7 +24055,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23425,7 +24068,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23438,7 +24081,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23451,7 +24094,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23464,7 +24107,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23477,7 +24120,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23490,7 +24133,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23503,7 +24146,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23516,7 +24159,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23529,7 +24172,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23542,7 +24185,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23555,7 +24198,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23568,7 +24211,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23581,7 +24224,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23594,7 +24237,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23607,7 +24250,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23620,7 +24263,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23633,7 +24276,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23646,7 +24289,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23659,7 +24302,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23672,7 +24315,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23685,7 +24328,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23698,7 +24341,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23711,7 +24354,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23724,7 +24367,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23737,7 +24380,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23750,7 +24393,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23763,7 +24406,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23776,7 +24419,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23789,7 +24432,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23802,7 +24445,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23815,7 +24458,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23828,7 +24471,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23841,7 +24484,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23854,7 +24497,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23867,7 +24510,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23880,7 +24523,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23893,7 +24536,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23906,7 +24549,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23919,7 +24562,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23932,7 +24575,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23945,7 +24588,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23958,7 +24601,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23971,7 +24614,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23984,7 +24627,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -23997,7 +24640,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24010,7 +24653,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24023,7 +24666,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24036,7 +24679,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24049,7 +24692,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24062,7 +24705,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24075,7 +24718,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24088,7 +24731,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24101,7 +24744,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24114,7 +24757,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24127,7 +24770,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24140,7 +24783,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24153,7 +24796,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24166,7 +24809,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24179,7 +24822,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24192,7 +24835,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24205,7 +24848,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24218,7 +24861,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24231,7 +24874,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24244,7 +24887,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24257,7 +24900,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24270,7 +24913,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24283,7 +24926,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24296,7 +24939,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24309,7 +24952,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24322,7 +24965,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24335,7 +24978,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24348,7 +24991,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24361,7 +25004,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24374,7 +25017,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24387,7 +25030,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24404,7 +25047,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24417,7 +25060,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24430,7 +25073,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24443,7 +25086,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24456,7 +25099,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24469,7 +25112,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24482,7 +25125,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24495,7 +25138,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24508,7 +25151,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24521,7 +25164,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24534,7 +25177,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24547,7 +25190,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24560,7 +25203,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24573,7 +25216,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24586,7 +25229,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24599,7 +25242,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24612,7 +25255,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24625,7 +25268,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24638,7 +25281,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24651,7 +25294,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24664,7 +25307,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24677,7 +25320,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24690,7 +25333,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24703,7 +25346,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24716,7 +25359,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24729,7 +25372,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24742,7 +25385,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24755,7 +25398,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24768,7 +25411,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24781,7 +25424,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24794,7 +25437,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24807,7 +25450,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24820,7 +25463,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24833,7 +25476,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24846,7 +25489,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24859,7 +25502,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24872,7 +25515,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24885,7 +25528,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24898,7 +25541,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24911,7 +25554,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24928,7 +25571,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24941,7 +25584,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24954,7 +25597,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24967,7 +25610,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   },
   {
@@ -24980,7 +25623,7 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feito por IA"
+      "Feitos por IA"
     ]
   }
 ];
