@@ -110,13 +110,27 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
 .join-channel-btn:focus-visible { outline:3px solid #9fe7ff; outline-offset:3px; }
 @media (max-width:600px) { .join-channel-wrap { padding-top:14px; }.join-channel-btn { width:100%; padding:12px 16px; font-size:14px; line-height:1.35; } }
 .sheet-credit { margin:5px 0 0; color:#aebbd4; font-size:12px; line-height:1.4; }
+
+/* Prévia de pôster e busca cruzada */
+.artist-preview {position:fixed;z-index:1100;width:min(430px,80vw);aspect-ratio:1;pointer-events:none;border:2px solid #9deaff;border-radius:15px;box-shadow:0 22px 65px #000c,0 0 25px #e66dce66;overflow:hidden;background:#141b31;display:none}
+.artist-preview img {width:100%;height:100%;object-fit:contain;display:block}
+.artist-preview.is-visible {display:block}
+.cross-toggle {border:1px solid #7f76b5;background:#27254c;color:#f4edff;border-radius:10px;padding:12px 16px;cursor:pointer;font-weight:700}
+.cross-toggle[aria-expanded="true"] {border-color:#8fe7f3;color:#a6f4ff}
+.cross-panel {margin:0 0 22px;padding:18px;border:1px solid #536a9b;border-radius:14px;background:linear-gradient(130deg,#1d2447,#1a1d32)}
+.cross-panel[hidden] {display:none}
+.cross-fields {display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0}
+.cross-fields label {display:grid;gap:7px;color:#e7dff7;font-size:14px}
+.cross-fields select {width:100%;min-width:0;padding:12px;background:#111b34;color:white;border:1px solid #7283ac;border-radius:9px}
+.cross-result {margin-top:12px;color:#dce7ff}.cross-result ol {padding-left:22px}.cross-result li {padding:10px 0;border-top:1px solid #ffffff22}.cross-result a {color:#8de7f5;margin-right:12px}
+@media(max-width:600px){.cross-fields{grid-template-columns:1fr}.artist-preview{display:none!important}}
 </style>
 </head>
 <body>
 <div id="bora-catalogo"></div>
 <div class="install-banner" id="install-banner" aria-live="polite"><img src="icons/icon-192.png" alt=""><div class="install-copy"><strong>Canal Bora de Doramas</strong><span>Instale o catálogo no celular para abrir como app.</span></div><button class="install-btn" id="install-btn" type="button">Instalar</button><button class="install-dismiss" id="install-dismiss" type="button" aria-label="Fechar">×</button></div>
-<script src="./catalogo.js?v=20261019"></script>
-<script src="./imagens.js?v=20261019"></script>
+<script src="./catalogo.js?v=20261024-cross"></script>
+<script src="./imagens.js?v=20261024-cross"></script>
 <script>
 (function () {
   'use strict';
@@ -144,10 +158,10 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
     <div class="main-wrap"><section class="intro" aria-labelledby="page-title"><div class="intro-art" aria-hidden="true"></div><div class="intro-content"><span class="eyebrow">CANAL BORA DE DORAMAS</span><h1 id="page-title">Catálogo de <i>short dramas</i></h1></div></section>
     <div class="join-channel-wrap"><a class="join-channel-btn" href="https://t.me/+2QcvTDzUth0wMzkx" target="_blank" rel="noopener noreferrer">🌸 Se você ainda não faz parte do CANAL <em>BORA DE DORAMAS</em>, clique aqui.</a></div>
     <div class="catalog-tabs"><div class="catalog-tab-list" role="tablist" aria-label="Explorar catálogo"><button type="button" class="catalog-tab" data-tab="artistas" id="tab-artistas" role="tab" aria-controls="painel-artistas">Por artista</button><button type="button" class="catalog-tab" data-tab="temas" id="tab-temas" role="tab" aria-controls="painel-temas">Por tema</button></div>
-      <div id="painel-artistas" role="tabpanel" aria-labelledby="tab-artistas"><section class="artist-section" aria-labelledby="artists-title"><div class="catalog-heading"><h2 id="artists-title">Atores e atrizes</h2><p class="result-count" id="artist-count" role="status" aria-live="polite"></p></div><div class="artist-controls"><div class="search-wrap artist-search"><span class="search-icon" aria-hidden="true">⌕</span><label class="sr-only" for="artist-search">Buscar artista ou drama</label><input id="artist-search" class="search-input" type="search" placeholder="Buscar artista ou drama"/><button type="button" class="clear-search" data-clear="artist-search" aria-label="Limpar busca" hidden>×</button></div><div class="artist-groups" role="group" aria-label="Filtrar artistas" id="artist-groups"></div></div><div class="artist-grid" id="artist-grid"></div><div class="empty-state" id="artist-empty" hidden><h3>Nenhum perfil encontrado</h3><p>Tente outro nome ou título.</p><button type="button" class="reset-button" data-reset="artists">Ver todos os artistas</button></div></section></div>
+      <div id="painel-artistas" role="tabpanel" aria-labelledby="tab-artistas"><section class="artist-section" aria-labelledby="artists-title"><div class="catalog-heading"><h2 id="artists-title">Atores e atrizes</h2><p class="result-count" id="artist-count" role="status" aria-live="polite"></p></div><div class="artist-controls"><div class="search-wrap artist-search"><span class="search-icon" aria-hidden="true">⌕</span><label class="sr-only" for="artist-search">Buscar artista ou drama</label><input id="artist-search" class="search-input" type="search" placeholder="Buscar artista ou drama"/><button type="button" class="clear-search" data-clear="artist-search" aria-label="Limpar busca" hidden>×</button></div><div class="artist-groups" role="group" aria-label="Filtrar artistas" id="artist-groups"></div></div><div class="cross-tools"><button type="button" id="cross-toggle" class="cross-toggle" aria-expanded="false" aria-controls="cross-panel">✦ Busca cruzada de artistas</button></div><section id="cross-panel" class="cross-panel" hidden aria-label="Busca cruzada"><p>Descubra quais dramas aparecem nas listas de dois artistas.</p><div class="cross-fields"><label>Primeiro artista<select id="cross-first"></select></label><label>Segundo artista<select id="cross-second"></select></label></div><div id="cross-result" class="cross-result" role="status" aria-live="polite">Escolha dois artistas para comparar.</div></section><div class="artist-grid" id="artist-grid"></div><div class="empty-state" id="artist-empty" hidden><h3>Nenhum perfil encontrado</h3><p>Tente outro nome ou título.</p><button type="button" class="reset-button" data-reset="artists">Ver todos os artistas</button></div></section></div>
       <div id="painel-temas" role="tabpanel" aria-labelledby="tab-temas" hidden><section class="catalog" aria-labelledby="catalog-title"><div class="catalog-heading"><h2 id="catalog-title">Explore por tema</h2><p class="result-count" id="theme-count" role="status" aria-live="polite"></p></div><div class="theme-gallery" role="group" aria-label="Selecionar lista temática" id="theme-gallery"></div><div class="filters theme-extras" role="group" aria-label="Outras opções de tema" id="theme-extras"></div><div class="controls"><div class="search-wrap"><span class="search-icon" aria-hidden="true">⌕</span><label class="sr-only" for="catalog-search">Buscar título, tema ou elenco</label><input id="catalog-search" class="search-input" type="search" placeholder="Buscar título, tema ou elenco"/><button type="button" class="clear-search" data-clear="catalog-search" aria-label="Limpar busca" hidden>×</button></div><label class="actor-filter" for="actor-select"><span>Ator/atriz</span><select id="actor-select" class="actor-trigger"><option value="Todos">Todos</option>${cast.map(n => `<option value="${esc(n)}">${esc(n)}</option>`).join('')}</select></label></div><div class="card-grid" id="drama-grid"></div><div class="empty-state" id="theme-empty" hidden><h3>Nenhum título encontrado</h3><p>Tente outra busca ou ajuste os filtros.</p><button type="button" class="reset-button" data-reset="themes">Ver todos os títulos</button></div></section></div></div>
     <footer>CANAL BORA DE DORAMAS <span>·</span> BY @GAL_HUAYUAN</footer></div>
-    <div class="sheet-backdrop" id="sheet-backdrop" hidden></div><aside class="artist-sheet" id="artist-sheet" role="dialog" aria-modal="true" aria-label="Lista de dramas" hidden></aside></main>`;
+    <div class="sheet-backdrop" id="sheet-backdrop" hidden></div><aside class="artist-sheet" id="artist-sheet" role="dialog" aria-modal="true" aria-label="Lista de dramas" hidden></aside><div class="artist-preview" id="artist-preview" aria-hidden="true"></div></main>`;
   root.querySelector('.intro-art').style.backgroundImage = `linear-gradient(90deg,#07132bd9 0%,#111938a8 38%,#11355745 68%,#061d3030 100%),url("${images['/brand-landscape.webp']}")`;
 
   const el = id => document.getElementById(id);
@@ -161,6 +175,43 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
       el('painel-'+tab).hidden = !active;
     }
   }
+  const crossArtists = [...artists].sort((a,b)=>a.name.localeCompare(b.name,'pt-BR'));
+  const crossFirst = el('cross-first'), crossSecond = el('cross-second');
+  const crossOptions = '<option value="">Selecione um artista</option>'+crossArtists.map(a=>`<option value="${esc(a.name)}">${esc(a.name)}</option>`).join('');
+  crossFirst.innerHTML=crossOptions; crossSecond.innerHTML=crossOptions;
+  const keyTitle = title => norm(title).replace(/[^a-z0-9]+/g,' ').trim().replace(/\s+/g,' ');
+  function renderCross() {
+    const a=artists.find(x=>x.name===crossFirst.value), b=artists.find(x=>x.name===crossSecond.value), target=el('cross-result');
+    if(!a||!b) {target.textContent='Escolha dois artistas para comparar.';return;}
+    if(a===b) {target.textContent='Escolha dois artistas diferentes.';return;}
+    const first=new Map();
+    a.dramas.forEach(d=>{const k=keyTitle(d.title);if(k&&!first.has(k))first.set(k,d);});
+    const matches=[];const seen=new Set();
+    b.dramas.forEach(d=>{const k=keyTitle(d.title);if(first.has(k)&&!seen.has(k)){seen.add(k);matches.push([first.get(k),d]);}});
+    if(!matches.length){target.textContent='Nenhum drama em comum encontrado nas listas cadastradas. Títulos alternativos podem precisar de conferência.';return;}
+    target.innerHTML=`<strong>${matches.length} ${matches.length===1?'drama em comum':'dramas em comum'}</strong><ol>${matches.map(([x,y])=>{
+      const unique=[...(x.links||[]),...(y.links||[])].filter((l,i,arr)=>arr.findIndex(z=>z.url===l.url)===i);
+      return `<li><strong>${esc(x.title)}</strong><div class="sheet-links">${links(unique,x.title,'sheet-link')}</div></li>`;
+    }).join('')}</ol>`;
+  }
+  el('cross-toggle').addEventListener('click',()=>{const panel=el('cross-panel');panel.hidden=!panel.hidden;el('cross-toggle').setAttribute('aria-expanded',String(!panel.hidden));if(!panel.hidden)crossFirst.focus();});
+  crossFirst.addEventListener('change',renderCross);crossSecond.addEventListener('change',renderCross);
+  const preview=el('artist-preview');
+  function hidePreview(){preview.classList.remove('is-visible');preview.replaceChildren();}
+  function showPreview(card){
+    if(!window.matchMedia('(hover:hover) and (pointer:fine)').matches)return;
+    const artist=artists.find(a=>a.name===card.dataset.artist);
+    if(!artist||!artist.image||!images[artist.image])return;
+    const img=document.createElement('img');img.src=images[artist.image];img.alt='';preview.replaceChildren(img);preview.classList.add('is-visible');
+    const rect=card.getBoundingClientRect(),w=Math.min(430,window.innerWidth*.8),h=w;
+    let left=rect.right+16;if(left+w>window.innerWidth-12)left=rect.left-w-16;
+    if(left<12)left=Math.max(12,(window.innerWidth-w)/2);
+    preview.style.left=left+'px';preview.style.top=Math.max(12,Math.min(rect.top,window.innerHeight-h-12))+'px';
+  }
+  root.addEventListener('pointerover',e=>{const card=e.target.closest('.artist-card');if(card&&!card.contains(e.relatedTarget))showPreview(card);});
+  root.addEventListener('pointerout',e=>{const card=e.target.closest('.artist-card');if(card&&!card.contains(e.relatedTarget))hidePreview();});
+  root.addEventListener('scroll',hidePreview,true);
+  window.addEventListener('resize',hidePreview);
   function renderArtists() {
     const term = norm(state.artistQuery.trim());
     const found = artists.filter(a => (state.group === 'Todos' || a.kind === (state.group === 'Atrizes' ? 'Atriz':'Ator')) && (!term || norm(a.name).includes(term) || a.dramas.some(d => norm(d.title).includes(term))));
@@ -196,7 +247,7 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
     const tab = e.target.closest('[data-tab]'); if (tab) { state.tab=tab.dataset.tab; renderTabs(); return; }
     const group = e.target.closest('[data-group]'); if (group) { state.group=group.dataset.group; renderArtists(); return; }
     const theme = e.target.closest('[data-theme]'); if (theme) { state.theme=theme.dataset.theme; renderThemes(); return; }
-    const artist = e.target.closest('[data-artist]'); if (artist) { previousFocus=artist; state.selected=artists.find(a=>a.name===artist.dataset.artist); state.listQuery=''; renderSheet(); el('artist-sheet').querySelector('.sheet-close').focus(); return; }
+    const artist = e.target.closest('[data-artist]'); if (artist) { hidePreview(); previousFocus=artist; state.selected=artists.find(a=>a.name===artist.dataset.artist); state.listQuery=''; renderSheet(); el('artist-sheet').querySelector('.sheet-close').focus(); return; }
     if (e.target.closest('[data-close]') || e.target.id === 'sheet-backdrop') { closeSheet(); return; }
     const clear = e.target.closest('[data-clear]'); if (clear) { const input=el(clear.dataset.clear); input.value=''; input.dispatchEvent(new Event('input',{bubbles:true})); input.focus(); return; }
     const reset = e.target.closest('[data-reset]'); if (reset) { if (reset.dataset.reset==='artists') { state.artistQuery='';state.group='Todos';el('artist-search').value='';renderArtists(); } else { state.themeQuery='';state.actor='Todos';state.theme='Todos';el('catalog-search').value='';el('actor-select').value='Todos';renderThemes(); } return; }

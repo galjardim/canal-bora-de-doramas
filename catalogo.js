@@ -1,4 +1,4 @@
-/* Catálogo Bora de Doramas: atualização 19/10/2026; créditos originais preservados */
+/* Catálogo Bora de Doramas — correção de perfil duplicado */
 window.CATALOG_ARTISTS = [
   {
     "name": "Bai Fangwen",
@@ -196,9 +196,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14361"
           }
         ]
+      },
+      {
+        "title": "NO DIA DO MEU CASAMENTO, CASEI COM OUTRO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14856"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Bai Xinyi",
@@ -307,9 +316,27 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14103"
           }
         ]
+      },
+      {
+        "title": "AMOR PROIBIDO: O SR. SHEN SE RENDE AOS POUCOS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14656"
+          }
+        ]
+      },
+      {
+        "title": "ESPOSA ADORÁVEL CHEGOU, PARE DE FINGIR SER FRIO! (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14966"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Bai Yan",
@@ -317,14 +344,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/bai-yan.webp",
     "dramas": [
       {
+        "title": "O Casamento que Prendeu meu Coração",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14860"
+          }
+        ]
+      },
+      {
         "title": "O Amor Perdura",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14309"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Irmã, Leve-me Para Casa",
@@ -333,8 +368,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13807"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Paixão Secreta do Sr. Gu se Casou",
@@ -343,8 +377,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12457"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Caçando e Matando",
@@ -353,8 +386,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12129"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Nunca Mais Terminar um Namoro",
@@ -363,8 +395,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13368"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Tarde Demais, Escolhi o Tio Dele",
@@ -373,8 +404,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12069"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Manual do Autossalvamento da Protagonista Secundária",
@@ -383,8 +413,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5278"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Caos Sedutor",
@@ -393,8 +422,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5025"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Ardente",
@@ -403,8 +431,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3894"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Não Se Reprima Comigo",
@@ -413,8 +440,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2264"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Chore aos Prantos ao Lado do Meu Túmulo",
@@ -423,8 +449,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13403"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Presa Pelo Amor Obsessivo",
@@ -433,8 +458,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11272"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Traída Renascida",
@@ -443,8 +467,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4956"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Sr. Oliveira Seja Meu Obediente",
@@ -453,8 +476,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4110"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Lembro de Você em Lágrimas",
@@ -463,8 +485,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10238"
           }
-        ],
-        "year": 2023
+        ]
       },
       {
         "title": "Sem Perdão, Sem Volta : Ela Seguiu em Frente",
@@ -473,8 +494,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3696"
           }
-        ],
-        "year": 2023
+        ]
       },
       {
         "title": "Te Quero Mais que Seu Rim",
@@ -483,11 +503,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/896"
           }
-        ],
-        "year": 2023
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Cao Tiankai",
@@ -695,9 +714,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14619"
           }
         ]
+      },
+      {
+        "title": "O HERDEIRO DA CAPITAL É O PAI DO MEU BEBÊ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14824"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Chang Gao Ming",
@@ -850,8 +878,12 @@ window.CATALOG_ARTISTS = [
         "title": "SÓ QUERIA FÉRIAS, MAS VIREI A PATROA (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/13102"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14735"
           }
         ]
       },
@@ -869,7 +901,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Chen Gang",
@@ -1034,7 +1066,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "MEU MARIDO DE CONTRATO QUER VIRAR REAL (2026)",
+        "title": "MEU  MARIDO DE CONTRATO QUER VIRAR REAL (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -1060,7 +1092,16 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/chen-ruifeng-20261016.webp",
     "dramas": [
       {
-        "title": "Difícil Se Controlar no Casamento (2026)",
+        "title": "Fui à Cidade e Me Casei às Pressas Com Um Magnata",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14757"
+          }
+        ]
+      },
+      {
+        "title": "Difícil Se Controlar no Casamento",
         "links": [
           {
             "label": "Telegram",
@@ -1069,7 +1110,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Era Para Fazê-lo Sofrer, Mas Viramos Cúmplices (2026)",
+        "title": "Era Para Fazê-lo Sofrer, Mas Viramos Cúmplices",
         "links": [
           {
             "label": "Telegram",
@@ -1078,7 +1119,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Quando o Amor Trouxe a Primavera (2026)",
+        "title": "Quando o Amor Trouxe a Primavera",
         "links": [
           {
             "label": "Telegram",
@@ -1087,7 +1128,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Depois da Farsa, a Herdeira Voltou Para se Vingar (2026)",
+        "title": "Depois da Farsa, a Herdeira Voltou Para se Vingar",
         "links": [
           {
             "label": "Telegram",
@@ -1096,7 +1137,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Seduzida pela Noite (2026)",
+        "title": "Seduzida pela Noite",
         "links": [
           {
             "label": "Telegram",
@@ -1105,7 +1146,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Começando a Vida de Casados (2026)",
+        "title": "Começando a Vida de Casados",
         "links": [
           {
             "label": "Telegram",
@@ -1114,7 +1155,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Paixão Secreta do Sr. Lu Se Casou (2026)",
+        "title": "A Paixão Secreta do Sr. Lu Se Casou",
         "links": [
           {
             "label": "Telegram",
@@ -1123,7 +1164,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Inesquecível Retornou: Meus Pensamentos Reescreveram o Destino (2026)",
+        "title": "Amor Inesquecível Retornou: Meus Pensamentos Reescreveram o Destino",
         "links": [
           {
             "label": "Telegram",
@@ -1132,7 +1173,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Desejo sem Amarras (2026)",
+        "title": "Desejo sem Amarras",
         "links": [
           {
             "label": "Telegram",
@@ -1141,20 +1182,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ex Na Mesma Cama! (2026)",
+        "title": "Ex Na Mesma Cama!",
         "links": [
           {
-            "label": "Legendado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/11832"
           },
           {
-            "label": "Dublado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12406"
           }
         ]
       },
       {
-        "title": "Uma Noite Errada com o Rei da Elite (2026)",
+        "title": "Uma Noite Errada com o Rei da Elite",
         "links": [
           {
             "label": "Telegram",
@@ -1163,7 +1204,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Roubar a Esposa (2026)",
+        "title": "Roubar a Esposa",
         "links": [
           {
             "label": "Telegram",
@@ -1172,7 +1213,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Imersão no Amor (2026)",
+        "title": "Imersão no Amor",
         "links": [
           {
             "label": "Telegram",
@@ -1181,7 +1222,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Você está Destinado a Salvação (2026)",
+        "title": "Você está Destinado a Salvação",
         "links": [
           {
             "label": "Telegram",
@@ -1190,7 +1231,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Casamento Relâmpago: Os Mimos Diários do Sr. Lu (2026)",
+        "title": "Casamento Relâmpago: Os Mimos Diários do Sr. Lu",
         "links": [
           {
             "label": "Telegram",
@@ -1199,7 +1240,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Queimar os Ossos em Lâmina (2026)",
+        "title": "Queimar os Ossos em Lâmina",
         "links": [
           {
             "label": "Telegram",
@@ -1208,7 +1249,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Quando Luna Cai Por Prado (2026)",
+        "title": "Quando Luna Cai Por Prado",
         "links": [
           {
             "label": "Telegram",
@@ -1217,7 +1258,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Dois Mundos Um Coração (2025)",
+        "title": "Dois Mundos Um Coração",
         "links": [
           {
             "label": "Telegram",
@@ -1226,7 +1267,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Xeque-Mate Meu Marido (2025)",
+        "title": "Xeque-Mate Meu Marido",
         "links": [
           {
             "label": "Telegram",
@@ -1235,7 +1276,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Não Devia te Beijar (2025)",
+        "title": "Não Devia te Beijar",
         "links": [
           {
             "label": "Telegram",
@@ -1244,7 +1285,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "No Dia do Casamento Levei um Marido de Brinde (2025)",
+        "title": "No Dia do Casamento Levei um Marido de Brinde",
         "links": [
           {
             "label": "Telegram",
@@ -1253,7 +1294,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Adeus ao Passado Olá ao Amor (2025)",
+        "title": "Adeus ao Passado Olá ao Amor",
         "links": [
           {
             "label": "Telegram",
@@ -1262,7 +1303,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Rosa Indomável Dele (2025)",
+        "title": "A Rosa Indomável Dele",
         "links": [
           {
             "label": "Telegram",
@@ -1271,7 +1312,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Chen Si",
@@ -1690,9 +1731,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14515"
           }
         ]
+      },
+      {
+        "title": "BELEZA ESCONDIDA NA CAPITAL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14926"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Chen Tianxiang",
@@ -1706,8 +1756,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14291"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Primeiro, Adeus Ao Meu Amor",
@@ -1716,8 +1765,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13511"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Além de Duas Vidas",
@@ -1726,8 +1774,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12957"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Canção de Despedida 1999",
@@ -1736,8 +1783,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12014"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Deus do Jogo Era Meu Noivo Prometido",
@@ -1746,8 +1792,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10159"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Eu? Apaixonada por Você? Nunca!",
@@ -1756,8 +1801,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9989"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Três Vezes no Tempo, Um Só Amor",
@@ -1766,8 +1810,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9983"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Um Vislumbre Deslumbrante",
@@ -1776,8 +1819,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7571"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Bisavó de 18 Anos que Restaurou a Família 3",
@@ -1786,8 +1828,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Season 4",
@@ -1796,8 +1837,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Minha Ascensão ao Trono",
@@ -1806,8 +1846,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12732"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Gêmeos Reais Salvadores do Tempo",
@@ -1816,8 +1855,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10615"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Belezas Maligna: Nada de Bondade Apenas Armas",
@@ -1826,8 +1864,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9366"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Toda a Cidade está Bêbada com o Seu Charme",
@@ -1836,8 +1873,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9181"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Engano do Coração: O Jogo da Raposa",
@@ -1846,8 +1882,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8436"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Eu Sou a Fênix Demoníaca",
@@ -1856,8 +1891,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7361"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Luz Escondida da Sombra",
@@ -1866,8 +1900,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7253"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Incrível! O Príncipe Virou o Meu Amante",
@@ -1876,8 +1909,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6188"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Favor Ilimitado do Chanceler",
@@ -1886,8 +1918,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6165"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Princesa se Casa Com o Tio",
@@ -1896,8 +1927,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5781"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Forçados a Casar Unidos Pelo Amor",
@@ -1906,8 +1936,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3796"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Uma Coelha que é Boa em Camuflagem",
@@ -1916,8 +1945,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2430"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Ela não é tão Boazinha",
@@ -1926,8 +1954,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/4693"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Fingindo até que Ele Se Lembre de Mim",
@@ -1936,11 +1963,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3816"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Cheng Yufeng",
@@ -1948,7 +1974,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/cheng-yufeng-20261016.webp",
     "dramas": [
       {
-        "title": "Após Quatro Anos Separados o Piloto Fu Perdeu o Controle (2026)",
+        "title": "Após Quatro Anos Separados o Piloto Fu Perdeu o Controle",
         "links": [
           {
             "label": "Telegram",
@@ -1957,7 +1983,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ele Me Perdeu Para o Herdeiro (2026)",
+        "title": "Ele Me Perdeu Para o Herdeiro",
         "links": [
           {
             "label": "Telegram",
@@ -1966,7 +1992,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sua Doce Perita Forence (2026)",
+        "title": "Sua Doce Perita Forence",
         "links": [
           {
             "label": "Telegram",
@@ -1975,7 +2001,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Médica? Agora Elas são a Ruínas Deles! (2026)",
+        "title": "Médica? Agora Elas são a Ruínas Deles!",
         "links": [
           {
             "label": "Telegram",
@@ -1984,7 +2010,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Retorno Triunfal da Cunhada (2026)",
+        "title": "Retorno Triunfal da Cunhada",
         "links": [
           {
             "label": "Telegram",
@@ -1993,7 +2019,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Doce Confusão (2026)",
+        "title": "Doce Confusão",
         "links": [
           {
             "label": "Telegram",
@@ -2002,7 +2028,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ele a Queria Há Muito Tempo (2026)",
+        "title": "Ele a Queria Há Muito Tempo",
         "links": [
           {
             "label": "Telegram",
@@ -2011,7 +2037,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Tentação da Meia-Noite (2026)",
+        "title": "Tentação da Meia-Noite",
         "links": [
           {
             "label": "Telegram",
@@ -2020,7 +2046,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "No Dia do Casamento, Eu Desmascarei Meu Noivo Infiel (2026)",
+        "title": "No Dia do Casamento, Eu Desmascarei Meu Noivo Infiel",
         "links": [
           {
             "label": "Telegram",
@@ -2029,7 +2055,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Cheng Zi",
@@ -2234,13 +2260,13 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Dai Gaozheng",
     "kind": "Ator",
     "image": "/artists/dai-gaozheng.webp",
-    "credit": "Lista atualizada por Marcia Chiodi C - @marciacolla em 30/09/2026",
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026)",
     "dramas": [
       {
         "title": "Hoje, O Amor Me Encontrou",
@@ -2249,8 +2275,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14201"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Roubei um pouco da sua Doçura",
@@ -2259,8 +2284,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14157"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Cisne Negro: Amor Proibido",
@@ -2269,18 +2293,20 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13961"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Só Queria Férias, Mas Virei a Patroa",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/13102"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14735"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Com Culpa",
@@ -2289,8 +2315,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12827"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Casei com o Homem Errado, Mas Ele Era o CEO",
@@ -2299,8 +2324,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11400"
           }
-        ],
-        "year": 2026
+        ]
       }
     ]
   },
@@ -2316,8 +2340,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14270"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Manhã Após Manhã, Noite Após Noite",
@@ -2330,8 +2353,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/12865"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Fora de Ordem: O Amor",
@@ -2340,8 +2362,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12710"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Marido Sumiu, E Meu Ídolo Tomou o Seus Lugar",
@@ -2350,8 +2371,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12512"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Sob o Brilho",
@@ -2360,8 +2380,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12443"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Noite Gélida de Primavera",
@@ -2370,8 +2389,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10928"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Srta. Secretária Não Sei Repete",
@@ -2380,8 +2398,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10892"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Recaída de Paixão",
@@ -2390,8 +2407,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9778"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Inverno Frio Acabou Por Você",
@@ -2404,8 +2420,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9430"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Família é Onde o Amor Está",
@@ -2414,8 +2429,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12271"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Esposa com Um Segredo",
@@ -2424,8 +2438,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8186"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Só Quero Ela",
@@ -2434,8 +2447,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7331"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Dama da Boca Poderosa: Da Maldição a Glória",
@@ -2444,8 +2456,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6125"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Ela é muito Selvagem",
@@ -2454,8 +2465,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4482"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Matar Deuses",
@@ -2464,8 +2474,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4361"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Te Amo Sem Razão",
@@ -2478,8 +2487,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/3766"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Galã em Casa",
@@ -2488,8 +2496,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3412"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Prometem Um ao Outro",
@@ -2498,8 +2505,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3395"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor de Espera Na Hora Certa",
@@ -2508,8 +2514,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2972"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Convidando Para Dentro",
@@ -2518,28 +2523,20 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3435"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
-        "title": "Season 1",
+        "title": "Esposa do Presidente é da Rural 1",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9699"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Season 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8728"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Traída Pelo Ex, Casei com o Irmão Secreto Dele",
@@ -2548,11 +2545,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3076"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Dong Yi",
@@ -2570,15 +2566,6 @@ window.CATALOG_ARTISTS = [
       },
       {
         "title": "MÉDICA MODERNA REENCARNA NA CORTE",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/1433"
-          }
-        ]
-      },
-      {
-        "title": "A PROTEGIDA DO CHEFÃO",
         "links": [
           {
             "label": "Telegram",
@@ -2621,11 +2608,11 @@ window.CATALOG_ARTISTS = [
         "title": "VOLTA  VINGATIVA",
         "links": [
           {
-            "label": "Parte 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/4063"
           },
           {
-            "label": "Parte 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/4064"
           }
         ]
@@ -2727,9 +2714,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/12500"
           }
         ]
+      },
+      {
+        "title": "COM MEU CORAÇÃO, EU O ATRAÍ AO ABISMO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14755"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Du Yafei",
@@ -2743,8 +2739,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13252"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Seu Sucesso Foi Minha Ilusão",
@@ -2757,8 +2752,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12242"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Rinque Clandestino, Seita Mortal",
@@ -2767,8 +2761,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11134"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Infiltrado na Tríplice Fronteira",
@@ -2777,8 +2770,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8782"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ela é Ousada",
@@ -2787,8 +2779,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7394"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Maquinar Contra Ela",
@@ -2797,8 +2788,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7110"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Segundo Casamento",
@@ -2807,8 +2797,16 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6671"
           }
-        ],
-        "year": 2026
+        ]
+      },
+      {
+        "title": "A Imperatriz Sombria e seu Príncipe",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14420"
+          }
+        ]
       },
       {
         "title": "Uma Noite Proibida na Família",
@@ -2817,8 +2815,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13311"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Deus da Espada Celestial",
@@ -2827,8 +2824,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6712"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Noivo Frio Amor Quente",
@@ -2837,8 +2833,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4029"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Eu Também Estou Caindo Por Você",
@@ -2847,8 +2842,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3618"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Doce e Explosiva, A Queridinha do Sr. Horácio",
@@ -2857,8 +2851,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3206"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Marido Meu Chefe Secreto",
@@ -2867,8 +2860,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1263"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Mil Perdões e Um Incêndio",
@@ -2877,8 +2869,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9314"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "A Fortuna da Corte",
@@ -2887,8 +2878,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2195"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Nunca Esqueci",
@@ -2897,11 +2887,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1366"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Fang Zhengnan",
@@ -2997,11 +2986,11 @@ window.CATALOG_ARTISTS = [
         "title": "QUANDO O AMOR VIRA ÓDIO (2024)",
         "links": [
           {
-            "label": "Parte 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/4658"
           },
           {
-            "label": "Parte 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/4659"
           }
         ]
@@ -3061,7 +3050,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Fu Hanyuan",
@@ -3141,7 +3130,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Gan Wangxing",
@@ -3236,9 +3225,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/13577"
           }
         ]
+      },
+      {
+        "title": "O ACORDO DE TEMPERATURA DO SENHOR FU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14930"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "GANGTIE ROUROU (Li Lei)",
@@ -3246,14 +3244,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/gangtie-rourou-li-lei.webp",
     "dramas": [
       {
+        "title": "Você Veio das Nuvens",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14707"
+          }
+        ]
+      },
+      {
         "title": "A Senhora Huo Voltou",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8670"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Perigoso na Cidade Portuária",
@@ -3262,8 +3268,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5450"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Chamas de Batalhas e Bela Senhorita",
@@ -3272,8 +3277,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1453748726/129732"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Após o divórcio, Retornei ao ápice da Vida",
@@ -3282,8 +3286,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8467"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Pela Vingança Me Alio ao Tio do Meu Noivo",
@@ -3292,8 +3295,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3980"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Despertar da paixão",
@@ -3302,8 +3304,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/879"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Vida Maravilhosa Antes da Morte",
@@ -3312,8 +3313,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3559"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "A Empregada Secreta do General",
@@ -3322,11 +3322,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10629"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Guo Yuxin",
@@ -3553,7 +3552,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Han Jiahui",
@@ -3571,8 +3570,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/13091"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Gosto de Você",
@@ -3581,8 +3579,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12468"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Não sou Mais a Sua Boazinha",
@@ -3591,8 +3588,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11925"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Só Amor e Ódio Entre Nós Querido",
@@ -3601,8 +3597,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11641"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Adeus ao Amanhecer",
@@ -3611,8 +3606,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7661"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Perdidos Na Neblina",
@@ -3621,8 +3615,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7261"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando Luna Cai Por Prado",
@@ -3631,8 +3624,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6904"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Gostar assim, Que Bom!",
@@ -3641,8 +3633,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5692"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Seu Amado, Seu Amor de Infância",
@@ -3651,8 +3642,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5329"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Coração em Conflito",
@@ -3661,8 +3651,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4759"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Divórcio Não Amor Para Sempre",
@@ -3671,8 +3660,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3746"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Absoluto",
@@ -3681,8 +3669,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2284"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Incompreendido",
@@ -3691,8 +3678,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11113"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Salvadora Estava Ao Meu Lado",
@@ -3701,8 +3687,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9987"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Sonho de Verão: Amor no Grande Hotel",
@@ -3711,8 +3696,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1034"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Do Encontro às Cegas À Felicidade Bilionária",
@@ -3721,11 +3705,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/975"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Han Qi",
@@ -3871,7 +3854,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Han Yutong",
@@ -4155,17 +4138,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "CASAMENTO RELÂMPAGO: DOCE COMO O PÊSSEGO, FORTE COMO LICOR (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14476"
-          }
-        ]
-      },
-      {
-        "title": "SEASON2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14519"
@@ -4182,7 +4160,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "He Congrui",
@@ -4190,7 +4168,16 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/he-congrui-20261016.webp",
     "dramas": [
       {
-        "title": "Socorro! A Noiva do Sr. Lu é uma Tagarela Difícil de Domar (2026)",
+        "title": "Três Anos de Exílio, Recebi o Divórcio e Ganhei um Império (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14914"
+          }
+        ]
+      },
+      {
+        "title": "Socorro! A Noiva do Sr. Lu é uma Tagarela Difícil de Domar",
         "links": [
           {
             "label": "Telegram",
@@ -4199,7 +4186,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor é a Minha Missão (2026)",
+        "title": "O Amor é a Minha Missão",
         "links": [
           {
             "label": "Telegram",
@@ -4208,7 +4195,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Primavera no Solar Nobre (2026)",
+        "title": "Primavera no Solar Nobre",
         "links": [
           {
             "label": "Telegram",
@@ -4217,7 +4204,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "JiaoJiao, Meu Amor (2026)",
+        "title": "JiaoJiao, Meu Amor",
         "links": [
           {
             "label": "Telegram",
@@ -4226,7 +4213,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Derretido Por Sua Luz (2026)",
+        "title": "Derretido Por Sua Luz",
         "links": [
           {
             "label": "Telegram",
@@ -4235,7 +4222,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Entre Nós, O Abismo (2026)",
+        "title": "Entre Nós, O Abismo",
         "links": [
           {
             "label": "Telegram",
@@ -4244,7 +4231,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Meu Irmão Nunca Desiste (2026)",
+        "title": "O Meu Irmão Nunca Desiste",
         "links": [
           {
             "label": "Telegram",
@@ -4253,20 +4240,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Obssessão Agridoce (2025)",
+        "title": "Obssessão Agridoce",
         "links": [
           {
-            "label": "Legendado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12951"
           },
           {
-            "label": "Dublado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12953"
           }
         ]
       },
       {
-        "title": "Fala Demais (2025)",
+        "title": "Fala Demais",
         "links": [
           {
             "label": "Telegram",
@@ -4275,7 +4262,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Imaculado Pela Neve e Pelo Vento (2025)",
+        "title": "Imaculado Pela Neve e Pelo Vento",
         "links": [
           {
             "label": "Telegram",
@@ -4284,7 +4271,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Vem Para Meu Abraço (2025)",
+        "title": "Vem Para Meu Abraço",
         "links": [
           {
             "label": "Telegram",
@@ -4293,7 +4280,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Como Você Se Atreve? (2024)",
+        "title": "Como Você Se Atreve?",
         "links": [
           {
             "label": "Telegram",
@@ -4302,7 +4289,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Colega de Apartamento é um CEO (2024)",
+        "title": "Meu Colega de Apartamento é um CEO",
         "links": [
           {
             "label": "Telegram",
@@ -4311,7 +4298,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Doce Casamento Repentino (2024)",
+        "title": "Doce Casamento Repentino",
         "links": [
           {
             "label": "Telegram",
@@ -4320,7 +4307,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Presidente Miguel Doce Ambição de um Legado Familiar (2024)",
+        "title": "Presidente Miguel Doce Ambição de um Legado Familiar",
         "links": [
           {
             "label": "Telegram",
@@ -4329,13 +4316,13 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "He Jianqi",
     "kind": "Ator",
     "image": "/artists/he-jianqi.webp",
-    "credit": "Lista atualizada por Marcia Chiodi C - @marciacolla em 30/09/2026",
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026",
     "dramas": [
       {
         "title": "O Amor Não Segue Roteiros",
@@ -4344,8 +4331,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14621"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Infiltrado: Sob à Névoa",
@@ -4354,8 +4340,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14276"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Confissão Mascarada",
@@ -4364,8 +4349,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14203"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Contra o Vento",
@@ -4374,8 +4358,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12412"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Me Apaixonando Por Você",
@@ -4384,8 +4367,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10619"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Antídoto do Príncipe",
@@ -4394,8 +4376,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6810"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Apaixonados à Primeira Vista",
@@ -4404,8 +4385,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12528"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Delírio Dia e Noite",
@@ -4414,8 +4394,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11907"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "No Apogeu do Esplendor",
@@ -4424,8 +4403,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3534"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Marés do Destino",
@@ -4434,8 +4412,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3062"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Socorro! Meu Marido É, Na verdade, o Presidente!",
@@ -4444,8 +4421,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12386"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Noivo Foge ela Casa com Outro no Altar",
@@ -4458,8 +4434,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/6862"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Casar-se com o milionário, após despedir se do amor tóxico",
@@ -4468,8 +4443,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6159"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "A Vingança da Fênix",
@@ -4478,8 +4452,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2681"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "A Substituta",
@@ -4488,8 +4461,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3523"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Sedução Amorosa - Spin Off: Rosa de Verão",
@@ -4498,8 +4470,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2969"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Rosa De Verão/ Summer Rose",
@@ -4508,162 +4479,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2702"
           }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Confissão Mascarada",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/14203"
-          }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Contra o Vento",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12412"
-          }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Me Apaixonando Por Você",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/10619"
-          }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "O Antídoto do Príncipe",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/6810"
-          }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Apaixonados à Primeira Vista",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12528"
-          }
-        ],
-        "year": 2025
-      },
-      {
-        "title": "Delírio Dia e Noite",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/11907"
-          }
-        ],
-        "year": 2025
-      },
-      {
-        "title": "No Apogeu do Esplendor",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3534"
-          }
-        ],
-        "year": 2025
-      },
-      {
-        "title": "Marés do Destino",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3062"
-          }
-        ],
-        "year": 2025
-      },
-      {
-        "title": "Socorro! Meu Marido É, Na verdade, o Presidente!",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12386"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Noivo Foge ela Casa com Outro no Altar",
-        "links": [
-          {
-            "label": "Legendado",
-            "url": "https://t.me/c/1440437235/3176"
-          },
-          {
-            "label": "Dublado",
-            "url": "https://t.me/c/1440437235/6862"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Casar-se com o milionário, após despedir se do amor tóxico",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/6159"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "A Vingança da Fênix",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/2681"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "A Substituta",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3523"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Sedução Amorosa - Spin Off: Rosa de Verão",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/2969"
-          }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Rosa De Verão/ Summer Rose",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/2702"
-          }
-        ],
-        "year": 2024
+        ]
       }
     ]
   },
@@ -4673,14 +4489,31 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/he-tiantian.webp",
     "dramas": [
       {
+        "title": "Casei às Pressas e Entrei no Jogo da Família do meu Marido (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14731"
+          }
+        ]
+      },
+      {
+        "title": "Fazer o que Bem Entender",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14701"
+          }
+        ]
+      },
+      {
         "title": "Meu Ex-Namorado Me Ajudou a Se Divorciar",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14024"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando o Amor Trouxe a Primavera",
@@ -4689,8 +4522,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13737"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "As Estrelas Caem em Meus Braços",
@@ -4699,8 +4531,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13652"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Noite de Tentação em Pequim",
@@ -4709,8 +4540,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13244"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Romance em Tempo Integral",
@@ -4719,8 +4549,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11771"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Chefe Frio Virou Meu Vício",
@@ -4729,8 +4558,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11075"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele Me Deu Uma Mentira, Eu Tirei tudo Dele",
@@ -4739,8 +4567,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10912"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Almas Gêmeas",
@@ -4749,8 +4576,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10720"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando Encontramos um Adversário À Altura",
@@ -4759,8 +4585,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10262"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Sr. Yan é Tão Persistente",
@@ -4769,8 +4594,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9836"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Contrato Para o Coração",
@@ -4779,8 +4603,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9150"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Verdadeira Herdeira Revida",
@@ -4789,8 +4612,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6535"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Fênix de Sangue o Retorno da Herdeira",
@@ -4799,8 +4621,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11699"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Marquesa que Ninguém Ousou Enfrentar",
@@ -4809,8 +4630,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8272"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Irmã, Não Fuja",
@@ -4819,8 +4639,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7100"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Que Eu Seja Inabalável Como Você",
@@ -4829,8 +4648,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6041"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Volta do Amor Perdido",
@@ -4839,8 +4657,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4729"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Um Casamento, Dois Destinos",
@@ -4849,8 +4666,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4656"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Garota do Interior vs. Dono do Crime",
@@ -4859,8 +4675,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1208"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Bilionário Implacável",
@@ -4869,11 +4684,19 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1125"
           }
-        ],
-        "year": 2025
+        ]
+      },
+      {
+        "title": "Confusão do Destino (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14619"
+          }
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Huang Haowen",
@@ -4998,7 +4821,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Huang Wenbo",
@@ -5253,9 +5076,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/13786"
           }
         ]
+      },
+      {
+        "title": "A DAMA DA ALDEIA: IDENTIDADES SECRETAS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14854"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Ji Ho-Geun",
@@ -5299,7 +5131,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Jin Jiayu",
@@ -5313,8 +5145,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14573"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Sr. Huo, Sua Esposa é Mestra da Estratégias",
@@ -5323,8 +5154,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13676"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele Quem Se Apaixonou",
@@ -5333,8 +5163,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13625"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Sr. Huo, Sua Esposa é Poderosa",
@@ -5343,8 +5172,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13147"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Namorado Doce e Temperado",
@@ -5353,8 +5181,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13081"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Embriagado Pelo Perfume Dela - Zhang Qiuzi",
@@ -5363,8 +5190,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13033"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Cinestésico - Zhang Qiuzi",
@@ -5373,8 +5199,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9894"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Ex Que Ele Não Resiste - Zhang Qiuzi",
@@ -5383,8 +5208,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9253"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Infidelidade Conjugal",
@@ -5393,8 +5217,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6647"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele Me Perdeu. Agora Me Idolatra - Zhang Qiuzi",
@@ -5403,8 +5226,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6098"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Uma Noite Para Recordar - Zhang Qiuzi",
@@ -5413,8 +5235,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13583"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Vingança e Desejo",
@@ -5423,8 +5244,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12991"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Não é Romance, É Castigo",
@@ -5433,8 +5253,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12767"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Pai Bilionário, Minha Mãe Presidiária - Dublado",
@@ -5443,8 +5262,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9579"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Doce Inocência, Sombria Vingança",
@@ -5453,8 +5271,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9664"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Pega Pelo Homem Certo",
@@ -5463,8 +5280,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6884"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Silêncioso e Perdurável - Zhang Qiuzi",
@@ -5473,8 +5289,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1304"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Tempo Não Esqueceu de Nós",
@@ -5483,8 +5298,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7653"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Troca das Gêmeas no Casamento",
@@ -5493,8 +5307,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9882"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Esquecidos, Mas Apaixonados",
@@ -5503,8 +5316,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5350"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O ex-marido Mimada pelo amigo Multimilionário do Meu Ex-marido",
@@ -5513,8 +5325,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4416"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Ela é Minha Arma, Antes Que Meu Coração",
@@ -5523,11 +5334,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4331"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 11/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Ke Chun",
@@ -5620,7 +5430,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Lan Lan",
@@ -5812,7 +5622,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Li Keyi",
@@ -5820,35 +5630,20 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/li-keyi.webp",
     "dramas": [
       {
-        "title": "SEASON 1",
+        "title": "Bisavó de 18 anos que restaurou a Família",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2500"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2845"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
@@ -5865,35 +5660,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "A Curadora de Desaforos (2025)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3722"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6145"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3552"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10203"
@@ -6035,17 +5815,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "Contrato de Trabalho? Não, Contrato de Amor (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9424"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13219"
@@ -6116,7 +5891,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Li Mengran",
@@ -6272,17 +6047,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "ESPOSA DOS ANOS 80 COM QUATRO FILHOS (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12543"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12545"
@@ -6312,7 +6082,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Li Muyang",
@@ -6396,7 +6166,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Li Quanchen",
@@ -6533,7 +6303,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Li Zhuoyang",
@@ -6694,7 +6464,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Liang Siwei",
@@ -6702,20 +6472,29 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/liang-siwei-20261016.webp",
     "dramas": [
       {
-        "title": "Casamento Relâmpago: Doce como Pêssego, Forte como Licor (2026)",
+        "title": "Desejo Além dos Limites",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14788"
+          }
+        ]
+      },
+      {
+        "title": "Casamento Relâmpago: Doce como Pêssego,  Forte como Licor",
+        "links": [
+          {
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/14476"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/14519"
           }
         ]
       },
       {
-        "title": "Renascer ao Seu Lado (2026)",
+        "title": "Renascer ao Seu Lado",
         "links": [
           {
             "label": "Legendado",
@@ -6728,7 +6507,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Manhã Após Manhã, Noite Após Noite (2026)",
+        "title": "Manhã Após Manhã, Noite Após Noite",
         "links": [
           {
             "label": "Legendado",
@@ -6741,7 +6520,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Cartas Através da Chuva (2026)",
+        "title": "Cartas Através da Chuva",
         "links": [
           {
             "label": "Telegram",
@@ -6750,20 +6529,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Dia & Noite (2026)",
+        "title": "Dia & Noite",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/5970"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12041"
           }
         ]
       },
       {
-        "title": "Possui por Sedução (2026)",
+        "title": "Possui por Sedução",
         "links": [
           {
             "label": "Telegram",
@@ -6772,7 +6551,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ela Na Minha Alma (2026)",
+        "title": "Ela Na Minha Alma",
         "links": [
           {
             "label": "Telegram",
@@ -6781,7 +6560,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Planejado (2026)",
+        "title": "Amor Planejado",
         "links": [
           {
             "label": "Telegram",
@@ -6790,20 +6569,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Louco por Casamento em Pequim (2026)",
+        "title": "Louco por Casamento em Pequim",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/7064"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/13803"
           }
         ]
       },
       {
-        "title": "Sob o Banquete Noturno (2026)",
+        "title": "Sob o Banquete Noturno",
         "links": [
           {
             "label": "Telegram",
@@ -6812,7 +6591,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Respostas Imperfeita (2026)",
+        "title": "Respostas Imperfeita",
         "links": [
           {
             "label": "Telegram",
@@ -6821,7 +6600,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Valentina, Você é Minha! (2025)",
+        "title": "Valentina, Você é Minha!",
         "links": [
           {
             "label": "Telegram",
@@ -6830,7 +6609,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Casei Com o Irmão do Noivo (2025)",
+        "title": "Casei Com o Irmão do Noivo",
         "links": [
           {
             "label": "Telegram",
@@ -6839,7 +6618,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Errado Mas Encantador (2025)",
+        "title": "Errado Mas Encantador",
         "links": [
           {
             "label": "Telegram",
@@ -6848,7 +6627,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor que Ele Ignorou (2025)",
+        "title": "O Amor que Ele Ignorou",
         "links": [
           {
             "label": "Telegram",
@@ -6857,7 +6636,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Nos Braços da Noite (2025)",
+        "title": "Nos Braços da Noite",
         "links": [
           {
             "label": "Telegram",
@@ -6866,7 +6645,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Vingança: Seduzir o Namorado da Linha Irmã (2025)",
+        "title": "Vingança: Seduzir o Namorado da Linha Irmã",
         "links": [
           {
             "label": "Telegram",
@@ -6875,7 +6654,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sempre Lembrando de você (2025)",
+        "title": "Sempre Lembrando de você",
         "links": [
           {
             "label": "Telegram",
@@ -6884,7 +6663,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ela é minha Arma, Antes que Meu Coração (2025)",
+        "title": "Ela é minha Arma, Antes que Meu Coração",
         "links": [
           {
             "label": "Telegram",
@@ -6893,7 +6672,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Jogo do Amor Perigoso (2025)",
+        "title": "Jogo do Amor Perigoso",
         "links": [
           {
             "label": "Telegram",
@@ -6902,7 +6681,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Bilionário Implora a Sua Ex- esposa (2025)",
+        "title": "Bilionário Implora a Sua Ex- esposa",
         "links": [
           {
             "label": "Telegram",
@@ -6911,7 +6690,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Garoto Que me Enfeitiçou (2024)",
+        "title": "O Garoto Que me Enfeitiçou",
         "links": [
           {
             "label": "Legendado",
@@ -6924,7 +6703,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Estrelas Cruzadas (2024)",
+        "title": "Estrelas Cruzadas",
         "links": [
           {
             "label": "Telegram",
@@ -6933,7 +6712,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sinais de Amor Cruzados (2024)",
+        "title": "Sinais de Amor Cruzados",
         "links": [
           {
             "label": "Telegram",
@@ -6942,7 +6721,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Aroma Suave de Jasmin (2024)",
+        "title": "Aroma Suave de Jasmin",
         "links": [
           {
             "label": "Telegram",
@@ -6951,7 +6730,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Coração Rebelde, Segredo Oculto (2024)",
+        "title": "Coração Rebelde, Segredo Oculto",
         "links": [
           {
             "label": "Telegram",
@@ -6960,7 +6739,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Chefe (2024)",
+        "title": "Meu Chefe",
         "links": [
           {
             "label": "Telegram",
@@ -6969,7 +6748,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "De Volta Sob o Mesmo Teto (2024)",
+        "title": "De Volta Sob o Mesmo Teto",
         "links": [
           {
             "label": "Telegram",
@@ -6978,7 +6757,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sedução implacável do CEO (2024)",
+        "title": "Sedução implacável do CEO",
         "links": [
           {
             "label": "Telegram",
@@ -6987,7 +6766,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Liang Wenjing",
@@ -6995,14 +6774,31 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/liang-wenjing.webp",
     "dramas": [
       {
+        "title": "Montanha Primaveril Buliçosa",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14786"
+          }
+        ]
+      },
+      {
+        "title": "À Sombra Das Montanhas da Primavera",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14729"
+          }
+        ]
+      },
+      {
         "title": "Eu Não Vim Salvar o Vilão",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14101"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Dois Rebeldes, Um Amor",
@@ -7011,8 +6807,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13914"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Despertar do Desejos",
@@ -7021,8 +6816,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13941"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Luz na Vastidão",
@@ -7035,8 +6829,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14199"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor que Esperou Dez Anos",
@@ -7045,8 +6838,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13317"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Sr. Xie Esqueceu Tudo, Menos de Me Assumir",
@@ -7055,8 +6847,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13108"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Minha Namorada...Arretada!",
@@ -7065,8 +6856,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6848"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Season 2",
@@ -7075,8 +6865,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10374"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Trago o Sol Radiante e Te Abraço",
@@ -7085,8 +6874,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7901"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Teste de Casamento Atípico",
@@ -7095,8 +6883,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7530"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "General, Contenha-se",
@@ -7105,8 +6892,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10542"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Cupido Trapaceiro",
@@ -7115,8 +6901,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10467"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sou Igual Ao Amanhecer",
@@ -7129,8 +6914,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/6694"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Quando o Amor Ser Faz Presente",
@@ -7139,8 +6923,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10281"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Seu Novo Amor",
@@ -7153,8 +6936,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6318"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Minha Esposa É Uma Deusa",
@@ -7163,11 +6945,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3220"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Lin Fengsong",
@@ -7255,7 +7036,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 16/10/2026"
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Liu Boyang",
@@ -7269,8 +7050,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12029"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Eu Te Levantei, Você Me Traiu",
@@ -7279,8 +7059,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8685"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Divórcio Inválido! O Senhor Lou Vem Atrás",
@@ -7289,8 +7068,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8344"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ela Era Tão Brilhante Quanto Luz do Dia",
@@ -7299,8 +7077,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7112"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Terceira Nota",
@@ -7309,8 +7086,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6387"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Sra. Xie Voltou Para Antiguidade e Casou-se",
@@ -7319,8 +7095,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6198"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Apagando Você da Minha Mente",
@@ -7329,8 +7104,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5900"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Na Véspera do Ano Novo, Eu Virei a Mesa",
@@ -7339,8 +7113,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5898"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele Me Pediu de Volta de Joelhos",
@@ -7349,8 +7122,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5736"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Cinco Anos de Devoção em Silêncio",
@@ -7359,8 +7131,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5227"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Seu Coração de Granito",
@@ -7369,8 +7140,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11036"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amante, Nunca Amada: Herdeira Mandona",
@@ -7379,8 +7149,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5171"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "No Dia da Despedida, o Sr. Fu Desmaiou de Tanto Chorar",
@@ -7389,8 +7158,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4783"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Passado se Encontra No Mercado de Peixes Secos",
@@ -7399,8 +7167,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2552"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Sombra Desvanecendo",
@@ -7409,8 +7176,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1721"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Casada Com o Bento Errado",
@@ -7419,8 +7185,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1690"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Últimas Palavras de Amor",
@@ -7429,8 +7194,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1648"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Uma Rosa Sobre as Ruínas",
@@ -7439,8 +7203,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1110"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Dança Fatídica do Seu Amor Não Dito",
@@ -7449,8 +7212,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/947"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Romance no Ar: Conhecendo o Cara Certo Para Mim",
@@ -7459,8 +7221,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9082"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Lua Minguante Oculta-se Na Névoa do Mar Profundo",
@@ -7469,8 +7230,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3029"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "A Música Terminou e Não Voltará Mais",
@@ -7479,8 +7239,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2271"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Doce Até Matar",
@@ -7489,11 +7248,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1658"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Liu Haoqun",
@@ -7535,9 +7293,22 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14527"
           }
         ]
+      },
+      {
+        "title": "AMOR EM CRESCIMENTO (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/14950"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14952"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Liu Lanbo",
@@ -7801,8 +7572,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13062"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Bela Mulher",
@@ -7811,8 +7581,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6613"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Tarde Demais, Escolhi o Tio Dele",
@@ -7821,8 +7590,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12069"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A General No Salão de Mármore",
@@ -7835,8 +7603,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/9995"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Nao Declarado de Yvonne",
@@ -7845,8 +7612,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9961"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Manual do Autossalvamento da Protagonista Secundária",
@@ -7855,8 +7621,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5278"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Chore aos Prantos ao Lado do Meu Túmulo",
@@ -7865,8 +7630,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13403"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Divorciada e Desejada: Meu Trio de Pretendentes de Elite",
@@ -7875,8 +7639,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4798"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Encontro Forçado, Amor Inesperado",
@@ -7885,8 +7648,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10882"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "O Marido Vegetal Era Meu Amante de Uma Noite",
@@ -7895,8 +7657,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6876"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Noiva Substituta: Ex-Marido Me Deixe",
@@ -7905,8 +7666,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6495"
           }
-        ],
-        "year": 2023
+        ]
       },
       {
         "title": "Amor Louco Na Floresta Primitiva",
@@ -7915,11 +7675,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3832"
           }
-        ],
-        "year": 2023
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Liu Xiaoxu",
@@ -8177,8 +7936,12 @@ window.CATALOG_ARTISTS = [
         "title": "O NINHO QUE CONSTRUÍMOS (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12498"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14862"
           }
         ]
       },
@@ -8210,7 +7973,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Liu Xiyu",
@@ -8522,17 +8285,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "A BABÁ DE OURO (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7601"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10126"
@@ -8630,7 +8388,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Liu Yuhang",
@@ -8665,17 +8423,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "DIA & NOITE (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5970"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12041"
@@ -8773,7 +8526,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Lu Huanyu",
@@ -8781,14 +8534,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/lu-huanyu.webp",
     "dramas": [
       {
+        "title": "Vingança da Sra. Zhong pela Herança",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14838"
+          }
+        ]
+      },
+      {
         "title": "Amor Disfarçado",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14644"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Chefe é o Pai do Meu Bebê",
@@ -8797,28 +8558,20 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13947"
           }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Legenda",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/10796"
-          }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Casamento Relâmpago Mimada Pelo Bilionário",
         "links": [
           {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10796"
+          },
+          {
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/10798"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Querido, Por Favor, Vá À Falência",
@@ -8827,8 +8580,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10617"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Golpe da Herdeira",
@@ -8837,8 +8589,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3410"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Cadê o Divórcio que Foi Combinado?",
@@ -8847,8 +8598,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8770"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Amor Escrito No Destino",
@@ -8857,11 +8607,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7454"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Ma Lejie",
@@ -8869,14 +8618,13 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/ma-lejie.webp",
     "dramas": [
       {
-        "title": "🆕 Após Quatro Anos Separados o Piloto Fu Perdeu o Controle",
+        "title": "Após Quatro Anos Separados o Piloto Fu Perdeu o Controle",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14555"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Madeixas Como Nuvens",
@@ -8885,8 +8633,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12935"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Entrelaçados",
@@ -8895,8 +8642,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12332"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Favorita Secreta do Magnata",
@@ -8905,8 +8651,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11152"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Mãe Solteira, Pai Inesperado",
@@ -8915,8 +8660,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10124"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Seduzindo o Homem Que Já A Queria",
@@ -8925,8 +8669,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9701"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Esposa Imbatível",
@@ -8935,8 +8678,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1300"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Renascida: Esposa Poderosa Com Habilidades Especiais 2",
@@ -8945,8 +8687,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12006"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Poderosa Esposa Renascida",
@@ -8955,8 +8696,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1636"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele A Queria Há Muito Tempo",
@@ -8965,8 +8705,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10483"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Não Devia Te Beijar",
@@ -8975,8 +8714,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7913"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ruptura",
@@ -8985,8 +8723,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7827"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Deusa da Vingança",
@@ -8995,8 +8732,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7793"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Saia Vermelha na Palma da Minha Mão",
@@ -9005,8 +8741,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6009"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Amor Que Ele Não Soube Perder",
@@ -9015,8 +8750,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5928"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Apaixonado Pela Esposa de Aluguel",
@@ -9025,8 +8759,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12100"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Pega Pelo Homem Certo",
@@ -9035,8 +8768,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6884"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Aquele Beijo Me Acordou",
@@ -9045,8 +8777,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4514"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amigas Irmãs Para Sempre",
@@ -9055,8 +8786,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3764"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Bilionário Implora a Sua Ex Esposa",
@@ -9065,8 +8795,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3616"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Atração Letal",
@@ -9075,8 +8804,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3583"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Coração em Duas Promessas",
@@ -9085,8 +8813,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3166"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Mundo Me Deu Você",
@@ -9095,8 +8822,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2274"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Amor que Arde",
@@ -9105,8 +8831,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2096"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Coração de Ferro Se Rendeu",
@@ -9115,18 +8840,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4084"
           }
-        ],
-        "year": 2024
-      },
-      {
-        "title": "Coração Rebelde, Segredo Oculto",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/4084"
-          }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Amor Incondicional",
@@ -9135,8 +8849,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2280"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Te Amei, Te Perdei",
@@ -9145,8 +8858,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1715"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Nunca Esqueci",
@@ -9155,8 +8867,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1366"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Você é Minha Luz Eterna",
@@ -9165,11 +8876,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1016"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Ma Shuoqi",
@@ -9177,14 +8887,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/ma-shuoqi.webp",
     "dramas": [
       {
+        "title": "Casal de Farçantes",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14894"
+          }
+        ]
+      },
+      {
         "title": "Dois Impostores: Esse Casal é Doces Demais",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14583"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Marido Mais Comum Era o CEO Mais Perigoso",
@@ -9197,8 +8915,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/12867"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Transmigrei: de Coadjuvante a Queridinha dos Sogros",
@@ -9207,8 +8924,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11979"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Beijos Doces, Vingança Cruel",
@@ -9217,8 +8933,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11398"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Não Mexa com Aquela Gênia Sem Nome",
@@ -9227,8 +8942,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10604"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele Planejou o Meu Amor Por 10 Anos",
@@ -9237,8 +8951,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9838"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Bilionário Aceitou o Meu Pedido de Casamento",
@@ -9247,8 +8960,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9440"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quem Eu Escolho, Herda Tudo",
@@ -9257,8 +8969,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7982"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Valentões Antigos? Não Mexam Com a CEO!",
@@ -9267,8 +8978,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13425"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Jogo de Poder e Paixão",
@@ -9277,8 +8987,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10590"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Homem Que Não Me Deixa Ir",
@@ -9287,8 +8996,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9108"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Forçado ao Meu Inimigo",
@@ -9297,8 +9005,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7970"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Empregada do CEO",
@@ -9307,8 +9014,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6771"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Que Eu Seja Inabalável Como Você",
@@ -9317,8 +9023,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6041"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sua Era Acabou, Irmã!",
@@ -9327,8 +9032,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4128"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Erro Que Virou Amor!",
@@ -9337,11 +9041,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1744"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 12/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Ma Xiaoyu",
@@ -9549,9 +9252,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14323"
           }
         ]
+      },
+      {
+        "title": "AMOR E LOUCURA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14918"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Meng Na",
@@ -9851,17 +9563,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "EX IMPLORA, OUTRO ME CONQUISTA (2025)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1132"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14627"
@@ -9869,7 +9576,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Min Jie",
@@ -9895,17 +9602,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "OPÇÃO 1",
+        "title": "AS ALGEMAS DO AMOR (2025)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2300MEU"
-          }
-        ]
-      },
-      {
-        "title": "OPÇÃO 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9249"
@@ -10097,7 +9799,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Shao Wei",
@@ -10111,8 +9813,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14071"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Carregando o Amor",
@@ -10121,8 +9822,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13672"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Rosa que Domou o Selvagem",
@@ -10131,8 +9831,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13886"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Eu e o Chefe: Comparando Longevidade",
@@ -10141,8 +9840,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11646"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Único e Verdadeiro Amor",
@@ -10151,8 +9849,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10854"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Meu Ex Morreu, Mas Ele Voltou",
@@ -10161,8 +9858,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10409"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ela Herdou Tudo e fez a Fortuna Dobrar",
@@ -10171,8 +9867,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10145"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Babá de Ouro I",
@@ -10181,8 +9876,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7601"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Season 2",
@@ -10191,8 +9885,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10126"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Sr Yan é tão Persistente",
@@ -10201,8 +9894,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9836"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Relação Perigosa",
@@ -10211,8 +9903,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6537"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Luz Roubada",
@@ -10221,8 +9912,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5254"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Casamento Relâmpago: O poderoso de Pequim é um marido estilo pai",
@@ -10231,8 +9921,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5252"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Casei com um garotão apaixonado",
@@ -10245,8 +9934,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7460"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sua Esposa que salta no tempo",
@@ -10255,8 +9943,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6136"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Roubar a sorte Dela",
@@ -10265,8 +9952,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7353"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sr. Ferreira Quer Status",
@@ -10275,8 +9961,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2574"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Delírio Dia e Noite",
@@ -10285,11 +9970,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11907"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Shen Haonan",
@@ -10596,9 +10280,45 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/13666"
           }
         ]
+      },
+      {
+        "title": "BEIJANDO O LOBO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14251"
+          }
+        ]
+      },
+      {
+        "title": "ESTRELAS ENTRE O DIA E NOITE (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14343"
+          }
+        ]
+      },
+      {
+        "title": "ME BEIJA AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14351"
+          }
+        ]
+      },
+      {
+        "title": "AMOR NA HORA CERTA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14591"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Shi Kang",
@@ -10606,14 +10326,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/shi-kang.webp",
     "dramas": [
       {
+        "title": "Montanha Primaveril Buliçosa",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14786"
+          }
+        ]
+      },
+      {
         "title": "Uma Noite de Sedução",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14672"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Lanterna dos Ossos",
@@ -10622,8 +10350,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14648"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Amor Que Esperou Dez Anos",
@@ -10632,8 +10359,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13317"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele é o Cara",
@@ -10642,8 +10368,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10034"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Teste de Casamento Atípico",
@@ -10652,8 +10377,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7530"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Finalmente, Primavera Chegou!",
@@ -10662,8 +10386,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6314"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amantes de Gliese",
@@ -10672,18 +10395,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5358"
           }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Minha Namorada é um Dragão",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/5358"
-          }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Profetisa - Meng Na",
@@ -10692,8 +10404,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5258"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Ouvinte Inevitável",
@@ -10702,8 +10413,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1162"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Silêncio! Grande Matriarca Voltou",
@@ -10712,8 +10422,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7917"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Vingança da Estudante Perfeita",
@@ -10722,8 +10431,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3614"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Conquiste-me com Um Beijo",
@@ -10732,11 +10440,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1344"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Shi Tong",
@@ -10882,7 +10589,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Bo",
@@ -11157,17 +10864,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "BRANCA COMO A NEVE DA MONTANHA (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9413"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12821"
@@ -11218,9 +10920,27 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/13126"
           }
         ]
+      },
+      {
+        "title": "ELA ENCONTROU REFÚGIO NAS MONTANHAS DA PRIMAVERA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14733"
+          }
+        ]
+      },
+      {
+        "title": "O CASAMENTO QUE PRENDEU MEU CORAÇÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14866"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Daotie",
@@ -11639,8 +11359,12 @@ window.CATALOG_ARTISTS = [
         "title": "O NINHO QUE CONSTRUÍMOS (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12498"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14862"
           }
         ]
       },
@@ -11688,281 +11412,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14107"
           }
         ]
-      }
-    ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
-  },
-  {
-    "name": "Wang Haozhen",
-    "kind": "Ator",
-    "image": "/artists/wang-haozhen.webp",
-    "dramas": [
+      },
       {
-        "title": "SR. LEO QUER VOLTAR (2024)",
+        "title": "A LANTERNA DOS OSSOS (2026)",
         "links": [
           {
             "label": "Telegram",
-            "url": "https://t.me/c/1440437235/2181"
-          }
-        ]
-      },
-      {
-        "title": "FOI AMOR A PRIMEIRA VISTA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/6793"
-          }
-        ]
-      },
-      {
-        "title": "AMOR PERDIDO NA NEBLINA (2025)",
-        "links": [
-          {
-            "label": "Legendado",
-            "url": "https://t.me/c/1440437235/6789"
-          },
-          {
-            "label": "Dublado",
-            "url": "https://t.me/c/1440437235/6786"
-          }
-        ]
-      },
-      {
-        "title": "AMOR SOB FARSA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/6706"
-          }
-        ]
-      },
-      {
-        "title": "MEU MARIDO LEGISTA (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/6435"
-          },
-          {
-            "label": "Dublado",
-            "url": "https://t.me/c/1440437235/11345"
-          }
-        ]
-      },
-      {
-        "title": "ANO APÓS ANO AINDA É VOCÊ (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/5958"
-          }
-        ]
-      },
-      {
-        "title": "COLHER UMA ESTRELA COM AS MÃOS (2024)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/5415"
-          }
-        ]
-      },
-      {
-        "title": "PROMETO-TE UM CASAMENTO PARA SEMPRE (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/5300"
-          }
-        ]
-      },
-      {
-        "title": "ROMANCE EM RUÍNAS: AMIGAS EM FUGA (FANGXIA) (2025)",
-        "links": [
-          {
-            "label": "Legendado",
-            "url": "https://t.me/c/1440437235/5139"
-          }
-        ]
-      },
-      {
-        "title": "QUANDO A AMIZADE SE QUEBRA (2024)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/4828"
-          }
-        ]
-      },
-      {
-        "title": "AMOR ARDENTE (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3894"
-          }
-        ]
-      },
-      {
-        "title": "MEU AMOR MEU ORGULHO (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3610"
-          }
-        ]
-      },
-      {
-        "title": "O AMOR SE PERDEU NA NEVE (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3519"
-          }
-        ]
-      },
-      {
-        "title": "O DECLÍNIO DA LUA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/3174"
-          }
-        ]
-      },
-      {
-        "title": "DE VOLTA AS COLINAS ENVOLTAS EM NÉVOA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7659"
-          }
-        ]
-      },
-      {
-        "title": "METEOROS (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7682"
-          }
-        ]
-      },
-      {
-        "title": "A BELA SUBSTITUTA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7229"
-          }
-        ]
-      },
-      {
-        "title": "AMOR DEPOIS DO CASAMENTO (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7313"
-          }
-        ]
-      },
-      {
-        "title": "O QUE ESTÁ NO PRATO (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7811"
-          }
-        ]
-      },
-      {
-        "title": "FLOR DE LYCORIS (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/8231"
-          }
-        ]
-      },
-      {
-        "title": "MEU EX É O DOUTOR (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/9668"
-          }
-        ]
-      },
-      {
-        "title": "IDEAL PARA CASAR (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/10418"
-          }
-        ]
-      },
-      {
-        "title": "NOITE E DIA (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/10852"
-          }
-        ]
-      },
-      {
-        "title": "AS CAMÉLIAS FLORESCEM (2026)",
-        "links": [
-          {
-            "label": "Legendado",
-            "url": "https://t.me/c/1440437235/12018"
-          },
-          {
-            "label": "Dublado",
-            "url": "https://t.me/c/1440437235/12020"
-          }
-        ]
-      },
-      {
-        "title": "CASAMENTO ANTES AMOR SECRETO (2024)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12071"
-          }
-        ]
-      },
-      {
-        "title": "A CHUVA CHEGA NA HORA CERTA (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12784"
-          }
-        ]
-      },
-      {
-        "title": "FOGO DA PRIMAVERA (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12786"
-          }
-        ]
-      },
-      {
-        "title": "DIAS CURTOS , NOITES LONGAS (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/12999"
+            "url": "https://t.me/c/1440437235/14648"
           }
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Haozhen (Ben Wang)",
@@ -12149,15 +11610,6 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "DE VOLTA ÀS COLINAS ENVOLTAS EM NÉVOA (2025)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/7659"
-          }
-        ]
-      },
-      {
         "title": "O QUE ESTÁ NO PRATO (2025)",
         "links": [
           {
@@ -12301,7 +11753,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Huilong",
@@ -12405,15 +11857,24 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/12702"
           }
         ]
+      },
+      {
+        "title": "QUATRO BEBÊS MUDAM TUDO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12506"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Kaimu",
     "kind": "Ator",
     "image": "/artists/wang-kaimu.webp",
-    "credit": "Lista atualizada por Marcia Chiodi C - @marciacolla em 30/09/2026",
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026",
     "dramas": [
       {
         "title": "Advogada Sheng: Regras Antes do Divórcio",
@@ -12422,8 +11883,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14107"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor em Ascensão",
@@ -12432,8 +11892,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13851"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Promessa do Amanhecer",
@@ -12442,8 +11901,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13527"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando a Névoa se Dissipa, Eu Volto Para Você",
@@ -12452,8 +11910,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13001"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Fugir da Ilha Dele",
@@ -12462,8 +11919,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10726"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Recaída Na Paixão",
@@ -12472,8 +11928,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9778"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Suco de Gengibre Com Açúcar Mascavo",
@@ -12482,8 +11937,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7078"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando o Coração Decide se Casar",
@@ -12492,8 +11946,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5452"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Roubei seu Coração",
@@ -12502,8 +11955,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6591"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Vento e Neve de Pequim",
@@ -12512,8 +11964,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6202"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Amor Como Estratégia",
@@ -12522,8 +11973,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9032"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Perfume da Armadilha",
@@ -12532,8 +11982,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9454"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Lealdade por Você",
@@ -12542,8 +11991,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8430"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Marido Semimaduro",
@@ -12552,8 +12000,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1556"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Atração Letal",
@@ -12562,8 +12009,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3583"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Imparável/ Amor Ardente",
@@ -12572,8 +12018,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3342"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Foi Amor à Primeira Vista com o Senhorio",
@@ -12582,8 +12027,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5684"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Casamento Imperativo",
@@ -12592,8 +12036,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3431"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Chefe, Você me Desestabiliza",
@@ -12602,8 +12045,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4785"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor Verdadeiro Só na Sexta Tentativa",
@@ -12612,8 +12054,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3707"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Amor Sabe Esperar a Hora Certa",
@@ -12622,8 +12063,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2972"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Manual da Ex-Esposa Perfeita",
@@ -12632,8 +12072,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3414"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Amor em Pauta",
@@ -12646,8 +12085,7 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/14563"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Cunhada: Uma Beleza em Tempos de Guerra",
@@ -12656,8 +12094,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7044"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Último Amor",
@@ -12666,8 +12103,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10183"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Encontro Casual",
@@ -12676,8 +12112,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1014"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Minha Esposa Astuta",
@@ -12686,8 +12121,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14028"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "De Volta ao Anos 80",
@@ -12696,8 +12130,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13640"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Apaixonando-me por Você Antes do Por do Sol",
@@ -12706,8 +12139,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5428"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "O Coração de Ferro se Rendeu",
@@ -12716,8 +12148,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4084"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "O Amor Substitutivo",
@@ -12726,8 +12157,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1192"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Beijos com Gosto de Vingança",
@@ -12736,8 +12166,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11507"
           }
-        ],
-        "year": 2024
+        ]
       }
     ]
   },
@@ -12747,7 +12176,16 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/wang-peiyan-20261016.webp",
     "dramas": [
       {
-        "title": "Provando o Sol De Verão (2026)",
+        "title": "Dia de Chuva",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14924"
+          }
+        ]
+      },
+      {
+        "title": "Provando o Sol De Verão",
         "links": [
           {
             "label": "Telegram",
@@ -12756,7 +12194,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Novo Noivo da Açougueira - Meng Na (2026)",
+        "title": "Novo Noivo da Açougueira - Meng Na",
         "links": [
           {
             "label": "Telegram",
@@ -12765,7 +12203,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Caminho dos Inimigos Não É Estreito (2026)",
+        "title": "O Caminho dos Inimigos Não É Estreito",
         "links": [
           {
             "label": "Telegram",
@@ -12774,7 +12212,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Como Minha Esposa é \"Frágil\" (2026)",
+        "title": "Como Minha Esposa é \"Frágil\"",
         "links": [
           {
             "label": "Telegram",
@@ -12783,7 +12221,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Príncipe Rosa (2026)",
+        "title": "Príncipe Rosa",
         "links": [
           {
             "label": "Telegram",
@@ -12792,22 +12230,22 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Bisavó de 18 anos que restaurou a Família (2026)",
+        "title": "Bisavó de 18 anos que restaurou a Família",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/2500"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/2845"
           },
           {
-            "label": "Temporada 3",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
           },
           {
-            "label": "Temporada 4",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
           }
         ]
@@ -12816,46 +12254,46 @@ window.CATALOG_ARTISTS = [
         "title": "FAMÍLIA É ONDE O AMOR ESTÁ (2025)",
         "links": [
           {
-            "label": "Temporada 1 - Legendado",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12269"
           },
           {
-            "label": "Temporada 1 - Dublado",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/12273"
           },
           {
-            "label": "Temporada 2 - Legendado",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12271"
           },
           {
-            "label": "Temporada 2 - Dublado",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/12275"
           }
         ]
       },
       {
-        "title": "A Curadora de Desaforos (2025)",
+        "title": "A Curadora de Desaforos",
         "links": [
           {
-            "label": "Temporada 1 (A senhora que Doma os Rebeldes)",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/3722"
           },
           {
-            "label": "Temporada 2 (A Tentação Mortal da Esposa do Assassino)",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/6145"
           },
           {
-            "label": "Temporada 3 (Missão da General: Caçar um Marido)",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/3552"
           },
           {
-            "label": "Temporada 4 (A senhora que Doma os Rebeldes: Prequela)",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/10203"
           }
         ]
       },
       {
-        "title": "Tu És Por Natureza Uma Beleza (2025)",
+        "title": "Tu És Por Natureza Uma Beleza",
         "links": [
           {
             "label": "Telegram",
@@ -12864,7 +12302,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Retorno da Noiva (2025)",
+        "title": "O Retorno da Noiva",
         "links": [
           {
             "label": "Telegram",
@@ -12873,7 +12311,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Tirano é Meu Conterrâneo (2025)",
+        "title": "Meu Tirano é Meu Conterrâneo",
         "links": [
           {
             "label": "Telegram",
@@ -12882,7 +12320,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Renascida das Cinzas - Meng Na (2025)",
+        "title": "Renascida das Cinzas - Meng Na",
         "links": [
           {
             "label": "Telegram",
@@ -12891,7 +12329,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Virei Família com Rei no Além (2025)",
+        "title": "Virei Família com Rei no Além",
         "links": [
           {
             "label": "Telegram",
@@ -12900,7 +12338,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Anos 80: Irmãs Trocando de Vida (2025)",
+        "title": "Anos 80: Irmãs Trocando de Vida",
         "links": [
           {
             "label": "Telegram",
@@ -12909,7 +12347,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Seu Novo Amor (2025)",
+        "title": "Seu Novo Amor",
         "links": [
           {
             "label": "Legendado",
@@ -12922,7 +12360,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Wang Xiaoyi",
@@ -13078,35 +12516,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "BARQUEIRO",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7803"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7805"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7807"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7809"
@@ -13123,28 +12546,18 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1 - LEGENDADO",
+        "title": "PAIS NA MESMA TURMA (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/8525"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 1 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/8471"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2  -  DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/11973"
           }
         ]
@@ -13231,19 +12644,14 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1 - DUBLADO",
+        "title": "A ESPOSA DO GENERAL (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/14280"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/14282"
           }
         ]
@@ -13256,9 +12664,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14480"
           }
         ]
+      },
+      {
+        "title": "UMA NOITE DE SEDUÇÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14672"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Xingwei",
@@ -13272,8 +12689,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13513"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ao seu Lado, Dia após Dia",
@@ -13282,8 +12698,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13484"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Herdeiro Perigoso Caiu Pela Mulher que o Usava",
@@ -13292,8 +12707,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13187"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Sr. Xie Esqueceu tudo, Menos Me Assumir",
@@ -13302,8 +12716,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13108"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quando a Névoa Passou o Amor Voltou Para Casa",
@@ -13312,8 +12725,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12279"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Refeições e Doces Momentos",
@@ -13326,11 +12738,10 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/11351"
           }
-        ],
-        "year": 2026
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Wang Xuan",
@@ -13338,7 +12749,16 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/wang-xuan-20261016.webp",
     "dramas": [
       {
-        "title": "Casei às Pressas e Entrei Para a Família do Meu Marido (2026)",
+        "title": "O Jovem Lorde Quer Ser Casar Comigo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14753"
+          }
+        ]
+      },
+      {
+        "title": "Casei às Pressas e Entrei Para a Família do Meu Marido",
         "links": [
           {
             "label": "Telegram",
@@ -13347,7 +12767,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Fazer O Que Bem Entender (2026)",
+        "title": "Fazer O Que Bem Entender",
         "links": [
           {
             "label": "Telegram",
@@ -13356,7 +12776,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Por Favor! Eu Quero Voltar Para o Palácio Frio! (2026)",
+        "title": "Por Favor! Eu Quero Voltar Para o Palácio Frio!",
         "links": [
           {
             "label": "Telegram",
@@ -13365,7 +12785,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Namorado é o Deus da Morte (2026)",
+        "title": "Meu Namorado é o Deus da Morte",
         "links": [
           {
             "label": "Telegram",
@@ -13374,7 +12794,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "As Estrelas Caíram em Meus Braços (2026)",
+        "title": "As Estrelas Caíram em Meus Braços",
         "links": [
           {
             "label": "Telegram",
@@ -13383,7 +12803,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Vento Conhece Minha Mente (2026)",
+        "title": "O Vento Conhece Minha Mente",
         "links": [
           {
             "label": "Telegram",
@@ -13392,7 +12812,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Apaixonados Por Acaso (2026)",
+        "title": "Apaixonados Por Acaso",
         "links": [
           {
             "label": "Telegram",
@@ -13401,7 +12821,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Mãe Solteira, Pai Inesperado (2026)",
+        "title": "Mãe Solteira, Pai Inesperado",
         "links": [
           {
             "label": "Telegram",
@@ -13410,7 +12830,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Mais Quente Que Meu Ex (2026)",
+        "title": "Mais Quente Que Meu Ex",
         "links": [
           {
             "label": "Telegram",
@@ -13419,7 +12839,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Senhor Mo, o Superprotetor (2026)",
+        "title": "Senhor Mo, o Superprotetor",
         "links": [
           {
             "label": "Telegram",
@@ -13428,7 +12848,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sangue e Traição (2025)",
+        "title": "Sangue e Traição",
         "links": [
           {
             "label": "Telegram",
@@ -13437,7 +12857,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Calor da Noite (2025)",
+        "title": "Calor da Noite",
         "links": [
           {
             "label": "Telegram",
@@ -13446,7 +12866,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Mãe Solteira? Sou a Princesa Da Família do Meu Chefe! (2025)",
+        "title": "Mãe Solteira? Sou a Princesa Da Família do Meu Chefe!",
         "links": [
           {
             "label": "Legendado",
@@ -13459,7 +12879,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor, Ressurgido das Cinzas (2025)",
+        "title": "Amor, Ressurgido das Cinzas",
         "links": [
           {
             "label": "Telegram",
@@ -13468,7 +12888,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Laços de Sangue, Jogos de Poder (2025)",
+        "title": "Laços de Sangue, Jogos de Poder",
         "links": [
           {
             "label": "Telegram",
@@ -13477,7 +12897,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ele Deveria Brilhar Intensamente (2025)",
+        "title": "Ele Deveria Brilhar Intensamente",
         "links": [
           {
             "label": "Telegram",
@@ -13486,7 +12906,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Segredo do Nosso Passado (2025)",
+        "title": "O Segredo do Nosso Passado",
         "links": [
           {
             "label": "Telegram",
@@ -13495,7 +12915,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Indomável (2025)",
+        "title": "Indomável",
         "links": [
           {
             "label": "Telegram",
@@ -13504,7 +12924,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Depois de Atravessar: O Tirano Me Amou (2025)",
+        "title": "Depois de Atravessar: O Tirano Me Amou",
         "links": [
           {
             "label": "Telegram",
@@ -13513,7 +12933,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Rendida ao Seu Coração Ardente (2025)",
+        "title": "Rendida ao Seu Coração Ardente",
         "links": [
           {
             "label": "Telegram",
@@ -13522,7 +12942,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sequestro Nupcial Armadilha do Coração (2025)",
+        "title": "Sequestro Nupcial Armadilha do Coração",
         "links": [
           {
             "label": "Telegram",
@@ -13531,7 +12951,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Wang Yanxin",
@@ -13600,11 +13020,11 @@ window.CATALOG_ARTISTS = [
         "title": "FALSO AMOR",
         "links": [
           {
-            "label": "Parte 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/6173"
           },
           {
-            "label": "Parte 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/6176"
           },
           {
@@ -13753,25 +13173,33 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "EX IMPLORA, OUTRO ME CONQUISTA (2025)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1132"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14627"
           }
         ]
+      },
+      {
+        "title": "CASAMENTO APAIXONADO (2024)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/14719"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14721"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Yiran",
@@ -14108,9 +13536,26 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14209"
           }
         ]
+      },
+      {
+        "title": "LIVRE COMO O MAR (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/9456"
+          },
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/14790"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/13248"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Yuhan",
@@ -14181,7 +13626,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wang Zilin",
@@ -14189,7 +13634,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/wang-zilin-20261016.webp",
     "dramas": [
       {
-        "title": "Usando a Sua Beleza Para Dominar (2026)",
+        "title": "Usando a Sua Beleza Para Dominar",
         "links": [
           {
             "label": "Telegram",
@@ -14198,7 +13643,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ele Humilhou a Mãe da Própria Filha (2026)",
+        "title": "Ele Humilhou a Mãe da Própria Filha",
         "links": [
           {
             "label": "Telegram",
@@ -14207,7 +13652,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Adeus ao Amanhecer (2026)",
+        "title": "Adeus ao Amanhecer",
         "links": [
           {
             "label": "Telegram",
@@ -14216,7 +13661,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Novo Amor Antigo (2026)",
+        "title": "Novo Amor Antigo",
         "links": [
           {
             "label": "Telegram",
@@ -14225,7 +13670,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Tarde Demais Para me Ter (2026)",
+        "title": "Tarde Demais Para me Ter",
         "links": [
           {
             "label": "Telegram",
@@ -14234,7 +13679,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Nonagésima Nona Nevasca Terminou (2026)",
+        "title": "A Nonagésima Nona Nevasca Terminou",
         "links": [
           {
             "label": "Telegram",
@@ -14243,7 +13688,16 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Um Flertar Perigoso (2025)",
+        "title": "Ela Partiu, Ele se Arrependeu",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14868"
+          }
+        ]
+      },
+      {
+        "title": "Um Flertar Perigoso",
         "links": [
           {
             "label": "Telegram",
@@ -14252,7 +13706,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Só Amor e Ódio, Entre Nós Querido (2025)",
+        "title": "Só Amor e Ódio, Entre Nós Querido",
         "links": [
           {
             "label": "Telegram",
@@ -14261,7 +13715,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Crescimento da Estrela. A Vingança do Som (2025)",
+        "title": "O Crescimento da Estrela. A Vingança do Som",
         "links": [
           {
             "label": "Telegram",
@@ -14270,7 +13724,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Papai Bilionário Dos Gêmeos (2025)",
+        "title": "Papai Bilionário Dos Gêmeos",
         "links": [
           {
             "label": "Telegram",
@@ -14279,7 +13733,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Fingindo Inocência, Conquistando o Sr. Ruiz (2025)",
+        "title": "Fingindo Inocência, Conquistando o Sr. Ruiz",
         "links": [
           {
             "label": "Telegram",
@@ -14288,7 +13742,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Reencontro Predestinado (2025)",
+        "title": "Reencontro Predestinado",
         "links": [
           {
             "label": "Telegram",
@@ -14297,7 +13751,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Após um Casamento Relâmpago com o Irmão (2025)",
+        "title": "Após um Casamento Relâmpago com o Irmão",
         "links": [
           {
             "label": "Telegram",
@@ -14306,7 +13760,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Não Mexe Comigo (2024)",
+        "title": "Não Mexe Comigo",
         "links": [
           {
             "label": "Telegram",
@@ -14315,7 +13769,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Brilho Leve da Noite (2024)",
+        "title": "Brilho Leve da Noite",
         "links": [
           {
             "label": "Telegram",
@@ -14324,7 +13778,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Wang Ziyi",
@@ -14435,17 +13889,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "CASADA COM O HERDEIRO PLAYBOY (2025)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11181"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11183"
@@ -14511,7 +13960,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Wu Tianhao",
@@ -14519,35 +13968,20 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/wu-tianhao.webp",
     "dramas": [
       {
-        "title": "SEASON 1",
+        "title": "Bisavó de 18 anos que restaurou a Família",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2500"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2845"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
@@ -14555,7 +13989,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 MEU GALÃ EM CASA (2025)",
+        "title": "MEU GALÃ EM CASA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14564,7 +13998,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 FAÍSCA PROIBIDA (2025)",
+        "title": "FAÍSCA PROIBIDA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14573,7 +14007,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 SEREI SUA GLÓRIA NA PRÓXIMA VIDA (2025)",
+        "title": "SEREI SUA GLÓRIA NA PRÓXIMA VIDA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14582,7 +14016,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 SUA FACHADA MALÉVOLA (2025)",
+        "title": "SUA FACHADA MALÉVOLA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14591,7 +14025,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 O EX QUE NUNCA ME ESQUECEU (2026)",
+        "title": "O EX QUE NUNCA ME ESQUECEU (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14600,7 +14034,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 SERVO DO DESTINO (2026)",
+        "title": "SERVO DO DESTINO (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14609,7 +14043,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 CARTA DE AMOR NO PORTO DA NOITE (2026)",
+        "title": "CARTA DE AMOR NO PORTO DA NOITE (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14618,7 +14052,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 DO INIMIGO AO MARIDO FIEL (2025)",
+        "title": "DO INIMIGO AO MARIDO FIEL (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14627,7 +14061,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 O CEO GU CAIU NAS MÃOS DA FILHA DO AÇOUGUEIRO (2026)",
+        "title": "O CEO GU CAIU NAS MÃOS DA FILHA DO AÇOUGUEIRO (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14636,7 +14070,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 A LENDA DE ANA (2025)",
+        "title": "A LENDA DE ANA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14645,7 +14079,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 À ESPERA DO INVERNO (2026)",
+        "title": "À ESPERA DO INVERNO (2026)",
         "links": [
           {
             "label": "Legendado",
@@ -14658,7 +14092,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 UM CASAMENTO ARRANJADO MUITO ESPERTO (2026)",
+        "title": "UM CASAMENTO ARRANJADO MUITO ESPERTO (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14667,7 +14101,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 O SEU AMOR É O MEU COMANDO (2026)",
+        "title": "O SEU AMOR É O MEU COMANDO (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14676,7 +14110,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟  MEU AMOR NA SEGUNDA VIDA (2025)",
+        "title": "MEU AMOR NA SEGUNDA VIDA (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14685,7 +14119,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟ATÉ O SONHO VIRAR LUZ (2025)",
+        "title": "ATÉ O SONHO VIRAR LUZ (2025)",
         "links": [
           {
             "label": "Telegram",
@@ -14694,7 +14128,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 APAIXONANDO-SE A CADA SOM (2026)",
+        "title": "APAIXONANDO-SE A CADA SOM (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14703,7 +14137,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "🌟 PARA ALICE (2026)",
+        "title": "PARA ALICE (2026)",
         "links": [
           {
             "label": "Telegram",
@@ -14712,7 +14146,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Xia Ningjun",
@@ -14782,7 +14216,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/xiao-haoran-20261016.webp",
     "dramas": [
       {
-        "title": "Meu Novo Chefe É Meu Ex- Marido (2026)",
+        "title": "Meu Novo Chefe É Meu Ex- Marido",
         "links": [
           {
             "label": "Telegram",
@@ -14791,7 +14225,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Atravessando a Neve de Jingbei (2026)",
+        "title": "Atravessando a Neve de Jingbei",
         "links": [
           {
             "label": "Telegram",
@@ -14800,7 +14234,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Minha Babá Virou Minha Namorada de Contrato (2026)",
+        "title": "Minha Babá Virou Minha Namorada de Contrato",
         "links": [
           {
             "label": "Telegram",
@@ -14809,7 +14243,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Trago o Sol Radiante e te Abraço (2026)",
+        "title": "Trago o Sol Radiante e te Abraço",
         "links": [
           {
             "label": "Telegram",
@@ -14818,7 +14252,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Arrebatada (2026)",
+        "title": "Arrebatada",
         "links": [
           {
             "label": "Telegram",
@@ -14827,7 +14261,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Feijão-Vermelho do Amor Afundou no Frio de Mentiras (2026)",
+        "title": "O Feijão-Vermelho do Amor Afundou no Frio de Mentiras",
         "links": [
           {
             "label": "Telegram",
@@ -14836,7 +14270,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Luar Roubado (2025)",
+        "title": "Luar Roubado",
         "links": [
           {
             "label": "Telegram",
@@ -14845,7 +14279,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Te Amo Toda Semana (2025)",
+        "title": "Te Amo Toda Semana",
         "links": [
           {
             "label": "Telegram",
@@ -14854,7 +14288,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Forçados a Casar Decididos a Amar (2025)",
+        "title": "Forçados a Casar Decididos a Amar",
         "links": [
           {
             "label": "Telegram",
@@ -14863,7 +14297,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Destinada a Cair em Seus Braços (2025)",
+        "title": "Destinada a Cair em Seus Braços",
         "links": [
           {
             "label": "Telegram",
@@ -14872,7 +14306,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Yan Zixian",
@@ -14880,14 +14314,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/yan-zixian.webp",
     "dramas": [
       {
+        "title": "Além das Fronteiras, Você (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14347"
+          }
+        ]
+      },
+      {
         "title": "Olho de Mestre",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12328"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Imperador Que Nunca A Esqueceu",
@@ -14896,8 +14338,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13388"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Princesa e o General: Sangue e Coroa",
@@ -14906,8 +14347,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11126"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Desatar a Camisa Primaveril",
@@ -14916,8 +14356,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10801"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Pegajosa e o Frio",
@@ -14926,8 +14365,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9660"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Combinam Perfeitamente",
@@ -14936,8 +14374,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9338"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Noiva Selvagem do Submundo",
@@ -14946,8 +14383,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6015"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Estratégia Na Palma da Minha Mão",
@@ -14956,8 +14392,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9106"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Voe Para o Seu Coração",
@@ -14966,11 +14401,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5538"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Yang Bingzhuo",
@@ -14984,8 +14418,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13104"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Afogando em Você",
@@ -14994,8 +14427,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12530"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ele me Deu Uma Mentira, Eu Tirei Tudo Dele",
@@ -15004,8 +14436,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10912"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Garota Boazinha, Sai de Cena",
@@ -15013,19 +14444,12 @@ window.CATALOG_ARTISTS = [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8501"
-          }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Season 2 - A Garota Boazinha Saiu, O Playboy Caiu",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13692"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Beijo Fatal No Verão",
@@ -15038,11 +14462,10 @@ window.CATALOG_ARTISTS = [
             "label": "Dublado",
             "url": "https://t.me/c/1440437235/9171"
           }
-        ],
-        "year": 2026
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Yang Han",
@@ -15122,7 +14545,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Yang Shuyu",
@@ -15265,7 +14688,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Yang Yilu",
@@ -15413,7 +14836,7 @@ window.CATALOG_ARTISTS = [
     "name": "Yi Hang",
     "kind": "Ator",
     "image": "/artists/yi-hang.webp",
-    "credit": "Lista atualizada por Marcia Chiodi C - @marciacolla em 30/09/2026",
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026",
     "dramas": [
       {
         "title": "Dois Rebeldes uma Amor",
@@ -15422,8 +14845,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13914"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Preso Pela Lua Partida",
@@ -15432,8 +14854,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14167"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Eunuco Yu Só Quer Sobreviver",
@@ -15442,8 +14863,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13674"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Imperatriz Viúva só Quer Sossego",
@@ -15452,8 +14872,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13195"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Beijo Tentador Sob o Sol Ardente",
@@ -15462,8 +14881,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13112"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Noite Ardente Entre Pequim e Hong Kong - Yu Yin",
@@ -15472,8 +14890,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13003"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Inimigos que Criei",
@@ -15482,8 +14899,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12712"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Noite Gélida de Primavera",
@@ -15492,8 +14908,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10928"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Alvo Do Coração do Mestre",
@@ -15502,8 +14917,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7694"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Te Enganei Mas Me Escolheu",
@@ -15512,8 +14926,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6902"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Quanto Mais Tarde, Mais Selvagem",
@@ -15522,8 +14935,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5298"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O CEO Amou Sua Esposa em Segredo",
@@ -15532,8 +14944,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10904"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "De Casal por Contrato a Aliados Para a Vida",
@@ -15542,8 +14953,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10499"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Suave Oscilar das Estrelas Vespertinas",
@@ -15552,8 +14962,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9547"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Pacto Entre Raposa e Caçador",
@@ -15562,8 +14971,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9370"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Uma Viagem Alegre de Barco",
@@ -15572,8 +14980,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5590"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Nosso Amor não Fazia Parte do Plano (2026)",
@@ -15582,18 +14989,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14117"
           }
-        ],
-        "year": 2026
-      },
-      {
-        "title": "Presos Pela Lua Partida (2026)",
-        "links": [
-          {
-            "label": "Telegram",
-            "url": "https://t.me/c/1440437235/14167"
-          }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Imperador já Amou sua Imperatriz Hoje? (2026)",
@@ -15602,8 +14998,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14390"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Amante Fugitivo do Tirano",
@@ -15612,8 +15007,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12945"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Paixão Correspondida",
@@ -15622,8 +15016,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12209"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Dou-te a Minha Ternura",
@@ -15632,8 +15025,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3495"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Ele Sempre Me Encontra",
@@ -15642,8 +15034,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1240"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Não Podemos Amar",
@@ -15652,8 +15043,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11454"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Todos os Olhares Por Ela",
@@ -15662,8 +15052,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9116"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Eis Que o Velho Amigo Retorna Outra Vez",
@@ -15672,8 +15061,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8552"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Roubo do Coronel de Fênix",
@@ -15682,8 +15070,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7698"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Noite de Núpcias Sem Fim",
@@ -15692,8 +15079,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5187"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Eles me Ouvem, Mas Eu Venci",
@@ -15702,8 +15088,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4090"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Consorte do Livro e o Imperador Renascido",
@@ -15712,8 +15097,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3994"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Do Veneno ao Afeto (2025)",
@@ -15722,8 +15106,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14483"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Lua Sabe Que Te Amo",
@@ -15732,8 +15115,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13989"
           }
-        ],
-        "year": 2024
+        ]
       }
     ]
   },
@@ -15884,9 +15266,27 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14146"
           }
         ]
+      },
+      {
+        "title": "O SR. GU NÃO MANDA NO PRÓPRIO CORAÇÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14884"
+          }
+        ]
+      },
+      {
+        "title": "ATRAÇÃO PROIBIDA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14910"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Yu Peishan",
@@ -15900,8 +15300,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14629"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Achou que Eu Não Me Divorciaria? Eu Processei",
@@ -15910,8 +15309,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14377"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Casamento Relâmpago com o CEO Disfarçado",
@@ -15920,8 +15318,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13191"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Caminhos Separados",
@@ -15930,8 +15327,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6684"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Destino Irreversível",
@@ -15940,8 +15336,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3690"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sem Perdão, Sem Volta: Ela Seguiu em Frente",
@@ -15950,8 +15345,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3696"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Imperador Que Quis Ser Meu Amante",
@@ -15960,11 +15354,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3715"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 13/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Yu Xuanhonghao",
@@ -16362,9 +15755,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14201"
           }
         ]
+      },
+      {
+        "title": "A MULHER EXTRAORDINÁRIA (2026)",
+        "links": [
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14798"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Yue Yuting",
@@ -16372,7 +15774,16 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/yue-yuting-20261016.webp",
     "dramas": [
       {
-        "title": "O Imperador Já Amou Sua Imperatriz Hoje? (2026)",
+        "title": "Destinados a Amar (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14820"
+          }
+        ]
+      },
+      {
+        "title": "O Imperador Já Amou Sua Imperatriz Hoje?",
         "links": [
           {
             "label": "Telegram",
@@ -16381,7 +15792,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Apaixonado Por Você (2026)",
+        "title": "Apaixonado Por Você",
         "links": [
           {
             "label": "Telegram",
@@ -16390,7 +15801,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Contrato de Casamento com A Raposa (2026)",
+        "title": "Contrato de Casamento com A Raposa",
         "links": [
           {
             "label": "Telegram",
@@ -16399,7 +15810,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Atração Pós Casamento (2026)",
+        "title": "Atração Pós Casamento",
         "links": [
           {
             "label": "Telegram",
@@ -16408,7 +15819,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Promessa Do Amanhecer (2026)",
+        "title": "A Promessa Do Amanhecer",
         "links": [
           {
             "label": "Telegram",
@@ -16417,7 +15828,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Viva a Rainha da Derrocada (2026)",
+        "title": "Viva a Rainha da Derrocada",
         "links": [
           {
             "label": "Telegram",
@@ -16426,7 +15837,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Primavera No Solar Nobre (2026)",
+        "title": "Primavera No Solar Nobre",
         "links": [
           {
             "label": "Telegram",
@@ -16435,7 +15846,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Escolhendo o Galho Certo Para Pousar (2026)",
+        "title": "Escolhendo o Galho Certo Para Pousar",
         "links": [
           {
             "label": "Telegram",
@@ -16444,7 +15855,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Casei Com Meu Inimigo (2026)",
+        "title": "Casei Com Meu Inimigo",
         "links": [
           {
             "label": "Telegram",
@@ -16453,7 +15864,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Servo do Destino (2026)",
+        "title": "Servo do Destino",
         "links": [
           {
             "label": "Telegram",
@@ -16462,7 +15873,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Beijo da Rosa Venenosa (2025)",
+        "title": "Beijo da Rosa Venenosa",
         "links": [
           {
             "label": "Telegram",
@@ -16471,7 +15882,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Uma Rajada de Vento Acaricia a Rosa (2025)",
+        "title": "Uma Rajada de Vento Acaricia a Rosa",
         "links": [
           {
             "label": "Telegram",
@@ -16480,7 +15891,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Aroma Suave de Jasmim (2025)",
+        "title": "Aroma Suave de Jasmim",
         "links": [
           {
             "label": "Telegram",
@@ -16489,7 +15900,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Mas Alturas (2025)",
+        "title": "Amor Mas Alturas",
         "links": [
           {
             "label": "Telegram",
@@ -16498,7 +15909,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Dança do Desejo, Sorte do Destinos (2025)",
+        "title": "Dança do Desejo, Sorte do Destinos",
         "links": [
           {
             "label": "Telegram",
@@ -16507,7 +15918,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Toda Cidade Está Bêbada Com Seu Charme (2025)",
+        "title": "Toda Cidade Está Bêbada Com Seu Charme",
         "links": [
           {
             "label": "Telegram",
@@ -16516,7 +15927,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Roubo do Coronel de Fênix (2025)",
+        "title": "O Roubo do Coronel de Fênix",
         "links": [
           {
             "label": "Telegram",
@@ -16525,7 +15936,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Favor Limitado do Chanceler (2025)",
+        "title": "O Favor Limitado do Chanceler",
         "links": [
           {
             "label": "Telegram",
@@ -16534,7 +15945,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Pelo Sangue e Traição: Eu Reergo (2025)",
+        "title": "Pelo Sangue e Traição: Eu Reergo",
         "links": [
           {
             "label": "Telegram",
@@ -16543,7 +15954,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Revanche do Destino (2024)",
+        "title": "Revanche do Destino",
         "links": [
           {
             "label": "Telegram",
@@ -16552,7 +15963,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zeng Hui",
@@ -16578,35 +15989,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "Bisavó de 18 anos que restaurou a Família",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2500"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2845"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
@@ -16825,17 +16221,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "VERÃO SEM FIM, AMOR ETERNO (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13541"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13853"
@@ -16852,7 +16243,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhai Yiying",
@@ -16860,7 +16251,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zhai-yiying-20261016.webp",
     "dramas": [
       {
-        "title": "Até o Sol Arder Entre Nós (2026)",
+        "title": "Até o Sol Arder Entre Nós",
         "links": [
           {
             "label": "Telegram",
@@ -16869,7 +16260,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Prometo Te Fazer Feliz (2026)",
+        "title": "Prometo Te Fazer Feliz",
         "links": [
           {
             "label": "Telegram",
@@ -16878,7 +16269,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Eterno e União (2026)",
+        "title": "Amor Eterno e União",
         "links": [
           {
             "label": "Telegram",
@@ -16887,7 +16278,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Romance em Pleno Verão (2026)",
+        "title": "Romance em Pleno Verão",
         "links": [
           {
             "label": "Telegram",
@@ -16896,7 +16287,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Tempo Respondeu (2026)",
+        "title": "O Tempo Respondeu",
         "links": [
           {
             "label": "Telegram",
@@ -16905,7 +16296,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Beijo Sobre o Sol Ardente (2026)",
+        "title": "Beijo Sobre o Sol Ardente",
         "links": [
           {
             "label": "Telegram",
@@ -16914,7 +16305,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Cartas de Amor Além do Tempo (2026)",
+        "title": "Cartas de Amor Além do Tempo",
         "links": [
           {
             "label": "Telegram",
@@ -16923,20 +16314,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Devagar Como Ouriço (2026)",
+        "title": "Devagar Como Ouriço",
         "links": [
           {
-            "label": "Legendado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12254"
           },
           {
-            "label": "Dublado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12256"
           }
         ]
       },
       {
-        "title": "A Golpista e o Herdeiro Fugitivo (2026)",
+        "title": "A Golpista e o Herdeiro Fugitivo",
         "links": [
           {
             "label": "Telegram",
@@ -16945,7 +16336,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Fogos e Luar (2026)",
+        "title": "Fogos e Luar",
         "links": [
           {
             "label": "Telegram",
@@ -16954,7 +16345,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor Que Cresceu Em Silêncio (2026)",
+        "title": "O Amor Que Cresceu Em Silêncio",
         "links": [
           {
             "label": "Telegram",
@@ -16963,7 +16354,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor Secreto Vira Casamento (2026)",
+        "title": "O Amor Secreto Vira Casamento",
         "links": [
           {
             "label": "Telegram",
@@ -16972,7 +16363,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Dia & Noite (2026)",
+        "title": "Dia & Noite",
         "links": [
           {
             "label": "Telegram",
@@ -16981,7 +16372,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Depois de Sete Inverno Sem Você (2026)",
+        "title": "Depois de Sete Inverno Sem Você",
         "links": [
           {
             "label": "Telegram",
@@ -16990,7 +16381,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Doce Amargo da Juventude (2026)",
+        "title": "Doce Amargo da Juventude",
         "links": [
           {
             "label": "Telegram",
@@ -16999,7 +16390,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Entre o Trono e Você: Eu Escolho Você (2026)",
+        "title": "Entre o Trono e Você: Eu Escolho Você",
         "links": [
           {
             "label": "Telegram",
@@ -17008,7 +16399,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Ramo da Vingança (2025)",
+        "title": "O Ramo da Vingança",
         "links": [
           {
             "label": "Telegram",
@@ -17017,7 +16408,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Primeiro Sabor (2025)",
+        "title": "Primeiro Sabor",
         "links": [
           {
             "label": "Telegram",
@@ -17026,7 +16417,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Primeiro Pensamento, Como No Início (2025)",
+        "title": "Primeiro Pensamento, Como No Início",
         "links": [
           {
             "label": "Telegram",
@@ -17035,7 +16426,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Lado Sombrio do Sol (2025)",
+        "title": "O Lado Sombrio do Sol",
         "links": [
           {
             "label": "Telegram",
@@ -17044,7 +16435,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O que o Coração Deseja (2025)",
+        "title": "O que o Coração Deseja",
         "links": [
           {
             "label": "Telegram",
@@ -17053,7 +16444,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Seu Dia e Sua Noite (2025)",
+        "title": "Seu Dia e Sua Noite",
         "links": [
           {
             "label": "Telegram",
@@ -17062,7 +16453,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Doce Verão (2025)",
+        "title": "Doce Verão",
         "links": [
           {
             "label": "Telegram",
@@ -17071,7 +16462,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ela é só Minha (2025)",
+        "title": "Ela é só Minha",
         "links": [
           {
             "label": "Telegram",
@@ -17080,7 +16471,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Anos Após Anos, Ainda é Você (2025)",
+        "title": "Anos Após Anos, Ainda é Você",
         "links": [
           {
             "label": "Telegram",
@@ -17089,7 +16480,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Colher Uma Estrela Com a Mão (2025)",
+        "title": "Colher Uma Estrela Com a Mão",
         "links": [
           {
             "label": "Telegram",
@@ -17098,7 +16489,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ex-Namorada eu Sou Seu Cachorro (2025)",
+        "title": "Ex-Namorada eu Sou Seu Cachorro",
         "links": [
           {
             "label": "Telegram",
@@ -17107,33 +16498,33 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Para Sempre ao Seu Lado (2024)",
+        "title": "Para Sempre ao Seu Lado",
         "links": [
           {
-            "label": "Legendado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/10807"
           },
           {
-            "label": "Dublado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/10809"
           }
         ]
       },
       {
-        "title": "Fascinado por Ela (2024)",
+        "title": "Fascinado por Ela",
         "links": [
           {
-            "label": "Legendado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/9715"
           },
           {
-            "label": "Dublado",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/9717"
           }
         ]
       },
       {
-        "title": "Espere As Estrelas Caírem (2024)",
+        "title": "Espere As Estrelas Caírem",
         "links": [
           {
             "label": "Telegram",
@@ -17142,7 +16533,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor de Estrelas (2024)",
+        "title": "O Amor de Estrelas",
         "links": [
           {
             "label": "Telegram",
@@ -17151,7 +16542,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Enterrado no Profundo (2024)",
+        "title": "Amor Enterrado no Profundo",
         "links": [
           {
             "label": "Telegram",
@@ -17160,7 +16551,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhang Baiyun",
@@ -17244,17 +16635,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "DIA & NOITE (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5970"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12041"
@@ -17415,9 +16801,27 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14617"
           }
         ]
+      },
+      {
+        "title": "AMOR ENVOLTO EM NÉVOA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14658"
+          }
+        ]
+      },
+      {
+        "title": "À SOMBRA DAS MONTANHAS DA PRIMAVERA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14729"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhang Beixi",
@@ -17425,7 +16829,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zhang-beixi-20261016.webp",
     "dramas": [
       {
-        "title": "A Verdadeira Herdeira Na Roça (2026)",
+        "title": "A Verdadeira Herdeira Na Roça",
         "links": [
           {
             "label": "Telegram",
@@ -17434,7 +16838,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Promessa Que Sobreviveu ao Tempo (2026)",
+        "title": "A Promessa Que Sobreviveu ao Tempo",
         "links": [
           {
             "label": "Telegram",
@@ -17443,7 +16847,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Rendida ao Amor: Meu Chefe é Meu Ex-Marido (2026)",
+        "title": "Rendida ao Amor: Meu Chefe é Meu Ex-Marido",
         "links": [
           {
             "label": "Telegram",
@@ -17452,7 +16856,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Antes Estranhos, Agora Apaixonados (2026)",
+        "title": "Antes Estranhos, Agora Apaixonados",
         "links": [
           {
             "label": "Telegram",
@@ -17461,7 +16865,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Marido Motorista é um Magnata (2026)",
+        "title": "Meu Marido Motorista é um Magnata",
         "links": [
           {
             "label": "Legendado",
@@ -17474,20 +16878,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Volta Para Casa (2026)",
+        "title": "Volta Para Casa",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12287"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12322"
           }
         ]
       },
       {
-        "title": "Ele Não Consegue Esconder o Seu Amor (2026)",
+        "title": "Ele Não Consegue Esconder o Seu Amor",
         "links": [
           {
             "label": "Telegram",
@@ -17496,20 +16900,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Feia de Propósito, Amada por Acidente (2026)",
+        "title": "Feia de Propósito, Amada por Acidente",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12047"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/12322"
           }
         ]
       },
       {
-        "title": "Noite Após Noite Era o CEO (2026)",
+        "title": "Noite Após Noite Era o CEO",
         "links": [
           {
             "label": "Telegram",
@@ -17518,7 +16922,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Novo Amor, Nova Vida (2026)",
+        "title": "Novo Amor, Nova Vida",
         "links": [
           {
             "label": "Telegram",
@@ -17527,7 +16931,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sr. Gu, Vamos Criar Esse Bebê Juntos? (2026)",
+        "title": "Sr. Gu, Vamos Criar Esse Bebê Juntos?",
         "links": [
           {
             "label": "Telegram",
@@ -17536,7 +16940,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor Secreto do Magnata Finalmente Tomou Posse (2026)",
+        "title": "O Amor Secreto do Magnata Finalmente Tomou Posse",
         "links": [
           {
             "label": "Telegram",
@@ -17545,7 +16949,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Criação de Damas (2026)",
+        "title": "Criação de Damas",
         "links": [
           {
             "label": "Telegram",
@@ -17554,7 +16958,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Eu Queria Vingança, Ele Só Me Queria (2026)",
+        "title": "Eu Queria Vingança, Ele Só Me Queria",
         "links": [
           {
             "label": "Telegram",
@@ -17563,7 +16967,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Ela Escolheu Outro Homem (2026)",
+        "title": "Ela Escolheu Outro Homem",
         "links": [
           {
             "label": "Legendado",
@@ -17576,7 +16980,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Fingindo ser Boazinha, Tornei-me a Favorita do Magnata (2026)",
+        "title": "Fingindo ser Boazinha, Tornei-me a Favorita do Magnata",
         "links": [
           {
             "label": "Telegram",
@@ -17585,20 +16989,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Casei com o Chefe e Tive Trigêmeos (2026)",
+        "title": "Casei com o Chefe e Tive Trigêmeos",
         "links": [
           {
-            "label": "Temporada 1",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/5550"
           },
           {
-            "label": "Temporada 2",
+            "label": "Telegram",
             "url": "https://t.me/c/1440437235/14134"
           }
         ]
       },
       {
-        "title": "Os Sete Anos Perdidos (2025)",
+        "title": "Os Sete Anos Perdidos",
         "links": [
           {
             "label": "Telegram",
@@ -17607,7 +17011,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sete Dias de Sol no Reencontro (2025)",
+        "title": "Sete Dias de Sol no Reencontro",
         "links": [
           {
             "label": "Telegram",
@@ -17616,7 +17020,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Calvário de Amor, Encontro Final (2025)",
+        "title": "Calvário de Amor, Encontro Final",
         "links": [
           {
             "label": "Telegram",
@@ -17625,7 +17029,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Difícil Esposa Grávida (2025)",
+        "title": "A Difícil Esposa Grávida",
         "links": [
           {
             "label": "Legendado",
@@ -17638,7 +17042,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Devoção Enredada (2025)",
+        "title": "Devoção Enredada",
         "links": [
           {
             "label": "Telegram",
@@ -17647,7 +17051,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Noiva Esquecida: O Violino do Destino (2025)",
+        "title": "A Noiva Esquecida: O Violino do Destino",
         "links": [
           {
             "label": "Telegram",
@@ -17656,7 +17060,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Alvo Seu Amor (2025)",
+        "title": "Meu Alvo Seu Amor",
         "links": [
           {
             "label": "Telegram",
@@ -17665,7 +17069,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Casada com o Bilionário do Futuro (2025)",
+        "title": "Casada com o Bilionário do Futuro",
         "links": [
           {
             "label": "Telegram",
@@ -17674,7 +17078,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor e Sucesso: Tudo em Mãos (2025)",
+        "title": "Amor e Sucesso: Tudo em Mãos",
         "links": [
           {
             "label": "Telegram",
@@ -17683,7 +17087,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Marido Frio Amor Ardente (2025)",
+        "title": "O Marido Frio Amor Ardente",
         "links": [
           {
             "label": "Telegram",
@@ -17692,7 +17096,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Do Gelo ao Fogo (2025)",
+        "title": "Do Gelo ao Fogo",
         "links": [
           {
             "label": "Telegram",
@@ -17701,7 +17105,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Entre Mentiras e Alianças (2025)",
+        "title": "Entre Mentiras e Alianças",
         "links": [
           {
             "label": "Telegram",
@@ -17710,7 +17114,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Noivo Errado, Amor Certo (2024)",
+        "title": "Noivo Errado, Amor Certo",
         "links": [
           {
             "label": "Legendado",
@@ -17723,7 +17127,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Ex-Esposa do CEO Voltou Mais Poderosa (2024)",
+        "title": "A Ex-Esposa do CEO Voltou Mais Poderosa",
         "links": [
           {
             "label": "Telegram",
@@ -17732,7 +17136,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Tio do Meu Noivo (2024)",
+        "title": "O Tio do Meu Noivo",
         "links": [
           {
             "label": "Telegram",
@@ -17741,7 +17145,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor é Quase Sempre Triste (2024)",
+        "title": "O Amor é Quase Sempre Triste",
         "links": [
           {
             "label": "Telegram",
@@ -17750,7 +17154,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Reencontro:Promessas Quebradas (2024)",
+        "title": "O Reencontro:Promessas Quebradas",
         "links": [
           {
             "label": "Legendado",
@@ -17763,7 +17167,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Minha Irmã é Incrível (2024)",
+        "title": "Minha Irmã é Incrível",
         "links": [
           {
             "label": "Telegram",
@@ -17772,7 +17176,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Mordida de Carmim (2024)",
+        "title": "Mordida de Carmim",
         "links": [
           {
             "label": "Telegram",
@@ -17781,7 +17185,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Nunca Mais Nós Dois (2024)",
+        "title": "Nunca Mais Nós Dois",
         "links": [
           {
             "label": "Telegram",
@@ -17790,7 +17194,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhang Chi",
@@ -17883,28 +17287,18 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1 - LEGENDADO",
+        "title": "PAIS NA  MESMA TURMA (2026)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/8525"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 1 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/8471"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/11973"
           }
         ]
@@ -17919,17 +17313,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "CONTRATO DE TRABALHO? NÃO, CONTRATO DE AMOR (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9424"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13219"
@@ -18011,9 +17400,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14016"
           }
         ]
+      },
+      {
+        "title": "A MOÇA DO FOGO NA CASA NOBRE (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14922"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhang Hongming",
@@ -18021,7 +17419,7 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zhang-hongming-20261016.webp",
     "dramas": [
       {
-        "title": "Me Beije, Sr. Sem Coração (2026)",
+        "title": "Me Beije, Sr. Sem Coração",
         "links": [
           {
             "label": "Telegram",
@@ -18030,7 +17428,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Se For Você, Vamos Nos Apaixonar, Depois do Casamento (2026)",
+        "title": "Se For Você, Vamos Nos Apaixonar, Depois do Casamento",
         "links": [
           {
             "label": "Telegram",
@@ -18039,7 +17437,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Amor Com ou Sem Permissão (2026)",
+        "title": "Amor Com ou Sem Permissão",
         "links": [
           {
             "label": "Telegram",
@@ -18048,7 +17446,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Livre Como o Mar (2026)",
+        "title": "Livre Como o Mar",
         "links": [
           {
             "label": "Legendado",
@@ -18061,7 +17459,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Minha Âncora no Céu (2026)",
+        "title": "Minha Âncora no Céu",
         "links": [
           {
             "label": "Telegram",
@@ -18070,7 +17468,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Seu Beijo Incendiou o Rio de Estrelas (2026)",
+        "title": "Seu Beijo Incendiou o Rio de Estrelas",
         "links": [
           {
             "label": "Telegram",
@@ -18079,7 +17477,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Fogos e Luar (2026)",
+        "title": "Fogos e Luar",
         "links": [
           {
             "label": "Telegram",
@@ -18088,7 +17486,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Amor Que Cresceu em Silêncio (2026)",
+        "title": "O Amor Que Cresceu em Silêncio",
         "links": [
           {
             "label": "Telegram",
@@ -18097,7 +17495,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Noite de Possibilidades (2026)",
+        "title": "Noite de Possibilidades",
         "links": [
           {
             "label": "Telegram",
@@ -18106,7 +17504,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Lâmina da Fênix (2026)",
+        "title": "A Lâmina da Fênix",
         "links": [
           {
             "label": "Telegram",
@@ -18115,7 +17513,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "O Beijo da Demônia (2026)",
+        "title": "O Beijo da Demônia",
         "links": [
           {
             "label": "Telegram",
@@ -18124,7 +17522,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Meu Lindo Concunbino Pode me Destruir (2026)",
+        "title": "Meu Lindo Concunbino Pode me Destruir",
         "links": [
           {
             "label": "Telegram",
@@ -18133,7 +17531,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Bem-Vindo Ao Mundo de Contos de Fadas (2026)",
+        "title": "Bem-Vindo Ao Mundo de Contos de Fadas",
         "links": [
           {
             "label": "Telegram",
@@ -18142,7 +17540,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Princesa Consorte Fugiu de Novo (2026)",
+        "title": "A Princesa Consorte Fugiu de Novo",
         "links": [
           {
             "label": "Telegram",
@@ -18151,7 +17549,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "A Noiva que Ousou Recusar o Príncipe (2026)",
+        "title": "A Noiva que Ousou Recusar o Príncipe",
         "links": [
           {
             "label": "Telegram",
@@ -18160,7 +17558,7 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "Sob o Mesmo Teto Rumo ao Seu Coração (2025)",
+        "title": "Sob o Mesmo Teto Rumo ao Seu Coração",
         "links": [
           {
             "label": "Telegram",
@@ -18169,7 +17567,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 16/10/2026"
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhang Jiawei",
@@ -18311,17 +17709,12 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "Dia e Noite (2026)",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5970"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12041"
@@ -18533,9 +17926,36 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14617"
           }
         ]
+      },
+      {
+        "title": "AMOR ENVOLTO EM NÉVOA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14658"
+          }
+        ]
+      },
+      {
+        "title": "DOMESTICAÇÃO EFICAZ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14792"
+          }
+        ]
+      },
+      {
+        "title": "DIA DE CHUVA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14924"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhang Junya",
@@ -18549,8 +17969,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12620"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Babá da Mansão Virou a Favorita da Família 2",
@@ -18559,8 +17978,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14159"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Em Busca da Minha Primavera",
@@ -18569,8 +17987,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11705"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Afogado Sob Os Lábios Dela",
@@ -18579,8 +17996,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8380"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Garota do Interior vs. Dono do Crime",
@@ -18589,8 +18005,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1208"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Mamãe, Trouxe um Marido Para Você!",
@@ -18599,11 +18014,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11749"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 01/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhang Xuan",
@@ -18770,9 +18184,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14008"
           }
         ]
+      },
+      {
+        "title": "TUDO SOB MEU CONTROLE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14662"
+          }
+        ]
       }
     ],
-    "credit": "(Lista atualizada por GAL - @GAL_HUAYUAN em 12/10/2026"
+    "credit": "Atualizada por GAL - By @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhang Yiyang",
@@ -18870,7 +18293,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhao Guanyu",
@@ -19029,15 +18452,24 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14551"
           }
         ]
+      },
+      {
+        "title": "PAIXÃO SEM FREIOS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14892"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhao Jia",
     "kind": "Atriz",
     "image": "/artists/zhao-jia.webp",
-    "credit": "Lista atualizada por Marcia Chiodi C - @marciacolla em 30/09/2026",
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/09/2026",
     "dramas": [
       {
         "title": "Sou a Conquistadora do Imperador",
@@ -19046,8 +18478,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13642"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Tudo Por Ela",
@@ -19056,8 +18487,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3719"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Chefão Pei, Eu Só Quero o Dinheiro, Não Você",
@@ -19066,8 +18496,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8153"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Afeição",
@@ -19076,8 +18505,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7686"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Registros Misteriosos de Chang'an",
@@ -19086,8 +18514,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7736"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Mimada Pelo Amigo Multimilionário do Meu Ex-Marido",
@@ -19096,8 +18523,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4416"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Para Onde Você Vai?",
@@ -19106,8 +18532,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9681"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Convidando-a Para Dentro",
@@ -19116,8 +18541,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3435"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Mil Perdões e Um Incêndio",
@@ -19126,8 +18550,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9314"
           }
-        ],
-        "year": 2024
+        ]
       }
     ]
   },
@@ -19137,14 +18560,13 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zhao-muyan.webp",
     "dramas": [
       {
-        "title": "A Cara Três Dias, Você",
+        "title": "A Cada Três Dias, Você",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14511"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Mestra Suprema dos Olhos Místicos",
@@ -19153,8 +18575,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13470"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Vilã Por Escolha",
@@ -19163,8 +18584,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12775"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Fênix: Renascer",
@@ -19173,8 +18593,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9627"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Vivido",
@@ -19183,8 +18602,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8213"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Arrebatada",
@@ -19193,8 +18611,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6017"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Uma Viagem Alegre de Barco",
@@ -19203,8 +18620,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5590"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Babá Herdeira",
@@ -19213,8 +18629,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11795"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Renascida e Amada pelo Rival",
@@ -19223,8 +18638,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4114"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Rosa ao Vento Selvagem",
@@ -19233,8 +18647,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2008"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Uma Noite Para Sempre",
@@ -19243,8 +18656,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8732"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Herdeira Sai das Sombras",
@@ -19253,8 +18665,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7482"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "O Desejo do CEO",
@@ -19263,8 +18674,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5841"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Missão: Tomar o intocável",
@@ -19273,8 +18683,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3686"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Reviravoltas do Destino, Amor Oculto",
@@ -19283,11 +18692,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/3245"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhao Tingyi",
@@ -19321,35 +18729,20 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1",
+        "title": "BISAVÓ DE 18 ANOS QUE RESTAUROU A FAMÍLIA 1, 2, 3 E 4",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2500"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2845"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 3",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6167"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 4",
-        "links": [
+          },
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6230"
@@ -19456,37 +18849,22 @@ window.CATALOG_ARTISTS = [
         ]
       },
       {
-        "title": "SEASON 1 - LEGENDADO",
+        "title": "FAMÍLIA É ONDE O AMOR ESTÁ (2025)",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12269"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 1 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/12273"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2 - LEGENDADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/12271"
-          }
-        ]
-      },
-      {
-        "title": "SEASON 2 - DUBLADO",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/12275"
           }
         ]
@@ -19528,7 +18906,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhao Zhendong",
@@ -19826,9 +19204,27 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14581"
           }
         ]
+      },
+      {
+        "title": "DOMESTICAÇÃO EFICAZ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14792"
+          }
+        ]
+      },
+      {
+        "title": "O DETETIVE DAS SOMBRAS: O PÁSSARO NA GAIOLA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14912"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhen Ziqi",
@@ -19939,7 +19335,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zheng Chenyu",
@@ -19947,14 +19343,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zheng-chenyu.webp",
     "dramas": [
       {
+        "title": "Ela Encontrou Refúgio Nas Montanhas de Primavera",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14733"
+          }
+        ]
+      },
+      {
         "title": "Difícil Se Controlar no Casamento",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14472"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Doutor, Você Confundiu sua Própria Esposa",
@@ -19963,8 +19367,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13085"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Um Casamento Falso, Um Amor Real Demais",
@@ -19973,8 +19376,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12925"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Começando a Vida de Casados",
@@ -19983,22 +19385,20 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/12541"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Ex Na Mesma Cama",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/11832"
           },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/12406"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Após Sair da Prisão, O Sr Li Ficou Viciado em Mimá-la",
@@ -20007,8 +19407,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10874"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Novo Amor, Nova Vida",
@@ -20017,8 +19416,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10835"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Brisa da Noite Te Beijou",
@@ -20027,8 +19425,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8707"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "O Retorno da Injustiçada",
@@ -20037,8 +19434,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7263"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Maquinar Contra Ela",
@@ -20047,8 +19443,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7110"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Forçada a Amá-lo",
@@ -20057,8 +19452,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6615"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "A Lei Da Presa",
@@ -20067,8 +19461,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6249"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Possuir Por Sedução",
@@ -20077,8 +19470,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6043"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Seu Dengo Minha Arma Contra o Mundo",
@@ -20087,8 +19479,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14008"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Peguei Um Príncipe Por Acaso",
@@ -20097,46 +19488,37 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/8966"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
-        "title": "Falso Amor 1",
+        "title": "Falso Amor",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/6173"
-          }
-        ],
-        "year": 2025
-      },
-      {
-        "title": "Sessão 2",
-        "links": [
+          },
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/6176"
           },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/6170"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Toda Família Mima a Mimi",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/5636"
           },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/5638"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Seu Retorno Glamouroso",
@@ -20145,8 +19527,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5037"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Amante Inimigo Que Paga de Durão",
@@ -20155,8 +19536,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4618"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Jogo de Desejo",
@@ -20165,8 +19545,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/1723"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Não Mexe Comigo",
@@ -20175,8 +19554,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10700"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "O Amor do Pai da Minha Rival",
@@ -20185,8 +19563,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/843"
           }
-        ],
-        "year": 2024
+        ]
       },
       {
         "title": "Sequestro Nupcial Armadilha do Coração",
@@ -20195,11 +19572,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/835"
           }
-        ],
-        "year": 2024
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zheng Kaiyi",
@@ -20274,7 +19650,7 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zhou Jiayi",
@@ -20282,14 +19658,22 @@ window.CATALOG_ARTISTS = [
     "image": "/artists/zhou-jiayi.webp",
     "dramas": [
       {
+        "title": "O Herdeiro Indomável",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14646"
+          }
+        ]
+      },
+      {
         "title": "As Seis Beldades Do Salão do General",
         "links": [
           {
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/13741"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Beijos Doces, Vingança Cruel",
@@ -20298,8 +19682,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/11398"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Wen Yue",
@@ -20308,8 +19691,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/5053"
           }
-        ],
-        "year": 2026
+        ]
       },
       {
         "title": "Missão Te Amar: Até ao Lado Oculto da Lua",
@@ -20318,8 +19700,16 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/6186"
           }
-        ],
-        "year": 2026
+        ]
+      },
+      {
+        "title": "Ela Partiu, Ele Se Arrependeu",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14868"
+          }
+        ]
       },
       {
         "title": "Ela Não se Esconde Mais",
@@ -20328,8 +19718,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/14077"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Jogo de Poder e Paixão",
@@ -20338,22 +19727,20 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/10590"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Noiva do Magnata Por Destino",
         "links": [
           {
-            "label": "Telegram",
+            "label": "Legendado",
             "url": "https://t.me/c/1440437235/10122"
           },
           {
-            "label": "Telegram",
+            "label": "Dublado",
             "url": "https://t.me/c/1440437235/10064"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Meu Irmãozinho Paquera Muito Bem",
@@ -20362,8 +19749,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/9300"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sr Gu, Sua Assistente Está Bombando de Novo",
@@ -20372,8 +19758,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/7251"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "Sua Era Acabou, Irmã!",
@@ -20382,8 +19767,7 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/4128"
           }
-        ],
-        "year": 2025
+        ]
       },
       {
         "title": "A Fadinha Dele",
@@ -20392,11 +19776,10 @@ window.CATALOG_ARTISTS = [
             "label": "Telegram",
             "url": "https://t.me/c/1440437235/2316"
           }
-        ],
-        "year": 2025
+        ]
       }
     ],
-    "credit": "(Lista atualizada por Marcia Chiodi C - @marciacolla em 10/10/2026"
+    "credit": "Atualizada por Marcia Chiodi C - @marciacolla em 21/10/2026"
   },
   {
     "name": "Zhu Yiwei",
@@ -20514,9 +19897,18 @@ window.CATALOG_ARTISTS = [
             "url": "https://t.me/c/1440437235/14656"
           }
         ]
+      },
+      {
+        "title": "A ESPOSA ADORÁVEL CHEGOU, PARE DE FINGIR SER FRIO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14966"
+          }
+        ]
       }
     ],
-    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - @GAL_HUAYUAN em 21/10/2026"
   },
   {
     "name": "Zuo Yi",
@@ -20743,7 +20135,3022 @@ window.CATALOG_ARTISTS = [
         ]
       }
     ],
-    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 13/10/2026"
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Li Zijie",
+    "kind": "Ator",
+    "image": "/artists/li-zijie.webp",
+    "dramas": [
+      {
+        "title": "Mãe! Nossas Vidas Foram Trocadas",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13443"
+          }
+        ]
+      },
+      {
+        "title": "Cancelei o Casamento e Casei com o Príncipe Rebelde",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13395"
+          }
+        ]
+      },
+      {
+        "title": "A Esposa Veio Pedir o Divórcio",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/13116"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/13091"
+          }
+        ]
+      },
+      {
+        "title": "Fingindo Amar o Bilionário",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12689"
+          }
+        ]
+      },
+      {
+        "title": "Gosto de Você",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12468"
+          }
+        ]
+      },
+      {
+        "title": "Sua Doce Lâmina",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12437"
+          }
+        ]
+      },
+      {
+        "title": "Entrelaçados",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12332"
+          }
+        ]
+      },
+      {
+        "title": "A Rainha e a Madrasta",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12131"
+          }
+        ]
+      },
+      {
+        "title": "Meu Marido Esquecido 2",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12010"
+          }
+        ]
+      },
+      {
+        "title": "Amadurecer Noturno",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/11981"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12381"
+          }
+        ]
+      },
+      {
+        "title": "Apaixonando-se Por Ele Noite Após Noite",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/11946"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12404"
+          }
+        ]
+      },
+      {
+        "title": "Meio-dia de Doce: Casamento com Ele",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/10538"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/10536"
+          }
+        ]
+      },
+      {
+        "title": "Príncipes, aceitem o Desafio",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/7617"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/9269"
+          }
+        ]
+      },
+      {
+        "title": "Presa ao meu Marido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8342"
+          }
+        ]
+      },
+      {
+        "title": "A Sra. Qin é Meio Indomável e a Favorita",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/6389"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/8292"
+          }
+        ]
+      },
+      {
+        "title": "Ele Veio no Pleno do Verão",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5865"
+          }
+        ]
+      },
+      {
+        "title": "A Sra. Feng Tem Uma Força Incrível",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5779"
+          }
+        ]
+      },
+      {
+        "title": "As Estrelas Caem em Seus Olhos",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13234"
+          }
+        ]
+      },
+      {
+        "title": "Paixão Pelo CEO Sem Memória",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/12859"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12861"
+          }
+        ]
+      },
+      {
+        "title": "Noiva do Destino: Meu tio Virou Meu Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12219"
+          }
+        ]
+      },
+      {
+        "title": "Seu amado Seu Amor de Infância",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5329"
+          }
+        ]
+      },
+      {
+        "title": "Ele Veio Por Mim",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1255"
+          }
+        ]
+      },
+      {
+        "title": "Coração em Conflito",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4759"
+          }
+        ]
+      },
+      {
+        "title": "Ás vezes O Amor Espera",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4962"
+          }
+        ]
+      },
+      {
+        "title": "Com Você Eu Nunca Falho",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4319"
+          }
+        ]
+      },
+      {
+        "title": "O Amante Perfeito",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3902"
+          }
+        ]
+      },
+      {
+        "title": "Meu Marido Esquecido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3814"
+          }
+        ]
+      },
+      {
+        "title": "Médica Divina em busca de marido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3315"
+          }
+        ]
+      },
+      {
+        "title": "O Noivo que Valia Milhões",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4273"
+          }
+        ]
+      },
+      {
+        "title": "Seis Bebês e Um Pai Multimilionário",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12687"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Yang Yubin",
+    "kind": "Ator",
+    "image": "/artists/yang-yubin.webp",
+    "dramas": [
+      {
+        "title": "CASADOS POR ENGANDO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1911"
+          }
+        ]
+      },
+      {
+        "title": "AMOR NOS TEMPOS AGITADOS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4223"
+          }
+        ]
+      },
+      {
+        "title": "AMOR E FÚRIA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4237"
+          }
+        ]
+      },
+      {
+        "title": "RENASCIDA PARA O AMO A VINGANÇA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5083"
+          }
+        ]
+      },
+      {
+        "title": "PRESIDENTE ZHOU, SUA ESPOSA NÃO SEGUE O ROTEIRO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7799"
+          }
+        ]
+      },
+      {
+        "title": "DUQUESA E PISTOLA (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8774"
+          }
+        ]
+      },
+      {
+        "title": "QUERIDA, ME CHAME DE MARIDO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11963"
+          }
+        ]
+      },
+      {
+        "title": "OBCECADO POR ZHIXIA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14093"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Li Baiyan",
+    "kind": "Ator",
+    "image": "/artists/li-baiyan.webp",
+    "dramas": [
+      {
+        "title": "A Guarda-Costas de 6 Anos",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12199"
+          }
+        ]
+      },
+      {
+        "title": "Aquela que Ele Não Viu",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13931"
+          }
+        ]
+      },
+      {
+        "title": "O Senhor Fu Não Me Larga",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6643"
+          }
+        ]
+      },
+      {
+        "title": "A Verdadeira Herdeira Conquistou a Capital",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13766"
+          }
+        ]
+      },
+      {
+        "title": "Sou a Princesa Dos Gatos!",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14699"
+          }
+        ]
+      },
+      {
+        "title": "A General Recupera sua Honra",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/3970"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/10218"
+          }
+        ]
+      },
+      {
+        "title": "Marido Demônio Soberano Sempre Quer me Matar",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13161"
+          }
+        ]
+      },
+      {
+        "title": "Amor em Chamas",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13133"
+          }
+        ]
+      },
+      {
+        "title": "A Volta do Amor Perdido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4729"
+          }
+        ]
+      },
+      {
+        "title": "Amor Incondicional",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2280"
+          }
+        ]
+      },
+      {
+        "title": "O Deus Preso ao Destino",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1719"
+          }
+        ]
+      },
+      {
+        "title": "Vamos Casar, Sr. André",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/890"
+          }
+        ]
+      },
+      {
+        "title": "Casamento Relâmpago: Minha Esposa Tola, Doce e Feroz",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13391"
+          }
+        ]
+      },
+      {
+        "title": "Casamento Relâmpago: Máscaras Caindo",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/3268"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/3266"
+          }
+        ]
+      },
+      {
+        "title": "Memória Perdida a Vingança da CEO",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13393"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "He Lianfei",
+    "kind": "Ator",
+    "image": "/artists/he-lianfei.webp",
+    "dramas": [
+      {
+        "title": "Casei Depois do Divórcio",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14169"
+          }
+        ]
+      },
+      {
+        "title": "O Homem Que Eu Jurei Odiar",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14119"
+          }
+        ]
+      },
+      {
+        "title": "Meu Segundo Casamento Também é Doce",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13370"
+          }
+        ]
+      },
+      {
+        "title": "Depois do Divórcio, Todos Se Apaixonaram Por Mim",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11855"
+          }
+        ]
+      },
+      {
+        "title": "A Noiva Trocada Domou a Família Inteira",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9884"
+          }
+        ]
+      },
+      {
+        "title": "Finalmente Com Você",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9194"
+          }
+        ]
+      },
+      {
+        "title": "Gravidez Nas Cinzas do Casamento",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9169"
+          }
+        ]
+      },
+      {
+        "title": "O Acordo Que Virou Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7575"
+          }
+        ]
+      },
+      {
+        "title": "Confissão Por Trás da Máscara",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6092"
+          }
+        ]
+      },
+      {
+        "title": "A Voz do Meu Bebê Mudou Nosso Destino",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13335"
+          }
+        ]
+      },
+      {
+        "title": "Dupla Face do Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6481"
+          }
+        ]
+      },
+      {
+        "title": "Minha Serpente Real",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13922"
+          }
+        ]
+      },
+      {
+        "title": "Refúgio Nos Braços do CEO",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3049"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Wen Zhicheng",
+    "kind": "Ator",
+    "image": "/artists/wen-zhicheng.webp",
+    "dramas": [
+      {
+        "title": "Frios em Público... Loucos em Privado",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8336"
+          },
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12782"
+          }
+        ]
+      },
+      {
+        "title": "O CEO que Lutou pelo meu Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13573"
+          }
+        ]
+      },
+      {
+        "title": "Ele Me quis Primeiro",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12441"
+          }
+        ]
+      },
+      {
+        "title": "A Babá que Domou os Herdeiros Feridos",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12620"
+          }
+        ]
+      },
+      {
+        "title": "Fui Embora Grávida e Ele Perdeu o Controle",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10957"
+          }
+        ]
+      },
+      {
+        "title": "Reencarnada: Amor com o Vilão",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/6023"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/9602"
+          }
+        ]
+      },
+      {
+        "title": "A CEO e o Jovem Marido Adorado",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7823"
+          }
+        ]
+      },
+      {
+        "title": "Cada Morte me Deixava Mais Forte",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7561"
+          }
+        ]
+      },
+      {
+        "title": "Casamento Relâmpago: O Magnata se Levantou",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6134"
+          }
+        ]
+      },
+      {
+        "title": "Escapadas das Melhores Amigas Grávidas",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5674"
+          }
+        ]
+      },
+      {
+        "title": "Laços Além do Escritório",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1244"
+          }
+        ]
+      },
+      {
+        "title": "Favoritismo Exclusivo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11071"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Zhang Lei",
+    "kind": "Ator",
+    "image": "/artists/zhang-lei.webp",
+    "dramas": [
+      {
+        "title": "Esposa Detetive",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10114"
+          }
+        ]
+      },
+      {
+        "title": "Já Vivi tudo Isso... E Agora vou Mudar Tudo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8139"
+          }
+        ]
+      },
+      {
+        "title": "Na Margem do Rio Só Restou Arrependimento",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7520"
+          }
+        ]
+      },
+      {
+        "title": "Prometi Não Voltar, Mas Voltei",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8072"
+          }
+        ]
+      },
+      {
+        "title": "Proteção Tardia",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/5742"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/6791"
+          }
+        ]
+      },
+      {
+        "title": "Três Arrependimento e Um Amor Verdadeiro",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5946"
+          }
+        ]
+      },
+      {
+        "title": "A Sogra Tigresa",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2326"
+          }
+        ]
+      },
+      {
+        "title": "Meu Bebê Cupido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12967"
+          }
+        ]
+      },
+      {
+        "title": "De Volta ao Meu Primeiro Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11909"
+          }
+        ]
+      },
+      {
+        "title": "Ano após Ano, Todos os Desejos",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11195"
+          }
+        ]
+      },
+      {
+        "title": "Noiva Falsa No Banquete",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10561"
+          }
+        ]
+      },
+      {
+        "title": "Eles não Merecem o Meu Amor 2026",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7615"
+          }
+        ]
+      },
+      {
+        "title": "Após a Falência Me apaixonei Pelo meu inimigo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5562"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Niu Boyu",
+    "kind": "Ator",
+    "image": "/artists/niu-boyu.webp",
+    "dramas": [
+      {
+        "title": "A ROSA E O GELO DELE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5556"
+          }
+        ]
+      },
+      {
+        "title": "O DESEJO DO CEO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5841"
+          }
+        ]
+      },
+      {
+        "title": "BEIJO DE VERÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6529"
+          }
+        ]
+      },
+      {
+        "title": "SÓ A MAMÃE ME AMA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7859"
+          }
+        ]
+      },
+      {
+        "title": "A ESPOSA DO CAPITÃO QIN QUER MESMO SE DIVORCIAR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8601"
+          }
+        ]
+      },
+      {
+        "title": "TRAÍDA E GRÁVIDA, ELA ESCOLHEU A COROA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9758"
+          }
+        ]
+      },
+      {
+        "title": "DESTINO MÍSTICO DE SARA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12474"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Zhao Xixi",
+    "kind": "Atriz",
+    "image": "/artists/zhao-xixi.webp",
+    "dramas": [
+      {
+        "title": "AMOR ENTRE A NÉVOA (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/1546"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/4376"
+          }
+        ]
+      },
+      {
+        "title": "INSTRUÇÃO PARA APAIXONAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2246"
+          }
+        ]
+      },
+      {
+        "title": "FORÇADOS A CASAR DECIDIDOS AMAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3072"
+          }
+        ]
+      },
+      {
+        "title": "TE AMO TODA SEMANA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4598"
+          }
+        ]
+      },
+      {
+        "title": "LUAR ROUBADO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7247"
+          }
+        ]
+      },
+      {
+        "title": "QUANDO O CORPO CONFESSA ANTES DA MEMÓRIA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10522"
+          }
+        ]
+      },
+      {
+        "title": "MINHA BABÁ VIROU MINHA NAMORADA DE CONTRATO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11336"
+          }
+        ]
+      },
+      {
+        "title": "ATRAVESSANDO A NEVE DE JINGBEI (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12104"
+          }
+        ]
+      },
+      {
+        "title": "MEU NOVO CHEFE É MEU EX-MARIDO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12661"
+          }
+        ]
+      },
+      {
+        "title": "RENASCIDA PARA BRILHAR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13071"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Cheng Cheng",
+    "kind": "Ator",
+    "image": "/artists/cheng-cheng.webp",
+    "dramas": [
+      {
+        "title": "LUA NO BARCO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1358"
+          }
+        ]
+      },
+      {
+        "title": "NAMORADO OFICIAL (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/1644"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/4086"
+          }
+        ]
+      },
+      {
+        "title": "O MUNDO ME DEU VOCÊ (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2274"
+          }
+        ]
+      },
+      {
+        "title": "PASSARO ENJAULADO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3118"
+          }
+        ]
+      },
+      {
+        "title": "CORAÇÃO EM DUAS PROMESSAS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3166"
+          }
+        ]
+      },
+      {
+        "title": "FAMÍLIA NO LIVRO: A REVOLTA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3180"
+          }
+        ]
+      },
+      {
+        "title": "COROA REINVINDICADA: ELA ASCENDE DA TRAIÇÃO",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3378"
+          }
+        ]
+      },
+      {
+        "title": "PROMETEM UM AO OUTRO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3395"
+          }
+        ]
+      },
+      {
+        "title": "NOIVA DE \"SACRIFÍCIO\" (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3596"
+          }
+        ]
+      },
+      {
+        "title": "O ABISMO ENTRE NÓS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5229"
+          }
+        ]
+      },
+      {
+        "title": "MEU CORAÇÃO LEMBRA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5262"
+          }
+        ]
+      },
+      {
+        "title": "A QUERIDINHA DO CEO (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/8668"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/5479"
+          }
+        ]
+      },
+      {
+        "title": "A NOIVA ERRADA DO CEO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9656"
+          }
+        ]
+      },
+      {
+        "title": "O PAI QUE VOLTOU PARA COBRAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9697"
+          }
+        ]
+      },
+      {
+        "title": "O MARECHAL ENCONTROU A FILHA PERDIDA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9888"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Chu Xia",
+    "kind": "Atriz",
+    "image": "/artists/chu-xia.webp",
+    "dramas": [
+      {
+        "title": "O SR. COSTA ESTÁ APAIXONADO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/856"
+          }
+        ]
+      },
+      {
+        "title": "ELA SEMPRE ME ENCONTRA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1240"
+          }
+        ]
+      },
+      {
+        "title": "LUZ ROUBADA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5254"
+          }
+        ]
+      },
+      {
+        "title": "O CEO FRIO E SUA PEQUENA TENTAÇÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6214"
+          }
+        ]
+      },
+      {
+        "title": "TE ENGANEI, MAS ME ESCOLHEU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6902"
+          }
+        ]
+      },
+      {
+        "title": "AMANTE SENSORIAIS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7098"
+          }
+        ]
+      },
+      {
+        "title": "ALVO DO CORAÇÃO DO MESTRE (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7694"
+          }
+        ]
+      },
+      {
+        "title": "SEDUZINDO O BILIONÁRIO INIMIGO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9218"
+          }
+        ]
+      },
+      {
+        "title": "NÃO PODEMOS AMAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11454"
+          }
+        ]
+      },
+      {
+        "title": "A SECRETÁRIA INDOMÁVEL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11648"
+          }
+        ]
+      },
+      {
+        "title": "A MENTIRA QUE FEZ ELE ODIAR ELA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12654"
+          }
+        ]
+      },
+      {
+        "title": "ENGANO DA FALSA FÊNIX (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13347"
+          }
+        ]
+      },
+      {
+        "title": "MEU CHEFE, PAI DO MEU BEBÊ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13971"
+          }
+        ]
+      },
+      {
+        "title": "A  LUA SABE QUE TE AMO (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13989"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Hou Chengyue",
+    "kind": "Atriz",
+    "image": "/artists/hou-chengyue.webp",
+    "dramas": [
+      {
+        "title": "ERRO QUE VIROU AMOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1744"
+          }
+        ]
+      },
+      {
+        "title": "JOGO PERIGOSO DO DESEJO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1822"
+          }
+        ]
+      },
+      {
+        "title": "SR. PILOTO CUIDADO COM MEU CORAÇÃO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1982"
+          }
+        ]
+      },
+      {
+        "title": "O DECLÍNIO DA LUA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3174"
+          }
+        ]
+      },
+      {
+        "title": "PAPAI MISTERIOSO É UM MAGNATA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4398"
+          }
+        ]
+      },
+      {
+        "title": "FÚRIA SILENCIOSA NA ESCOVA (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4796"
+          }
+        ]
+      },
+      {
+        "title": "TRAIÇÃO IMPERIAL (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5031"
+          }
+        ]
+      },
+      {
+        "title": "LOUCO POR CASAMENTO EM PEQUIM (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7064"
+          },
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13803"
+          }
+        ]
+      },
+      {
+        "title": "O EX QUE NUNCA ME ESQUECEU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7203"
+          }
+        ]
+      },
+      {
+        "title": "LARGA O MENINO! (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7777"
+          }
+        ]
+      },
+      {
+        "title": "JOGO DE PREDADORES (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9198"
+          }
+        ]
+      },
+      {
+        "title": "A ROSA ESCONDIDA NO VERÃO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9237"
+          }
+        ]
+      },
+      {
+        "title": "QUANDO O CONTRATO ACABOU, O EX NÃO DESGRUDOU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9415"
+          }
+        ]
+      },
+      {
+        "title": "NÃO QUERO SER SEU SEGREDO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11342"
+          }
+        ]
+      },
+      {
+        "title": "FOGO INCONTROLÁVEL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11799"
+          }
+        ]
+      },
+      {
+        "title": "DEPOIS DA TROCA DE ALMAS (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12195"
+          }
+        ]
+      },
+      {
+        "title": "À ESPERA DO INVERNO (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/12652"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/13118"
+          }
+        ]
+      },
+      {
+        "title": "CAMINHO ATÉ SEU CORAÇÃO  (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12825"
+          }
+        ]
+      },
+      {
+        "title": "AMOR ALÉM DE DUAS VIDAS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12957"
+          }
+        ]
+      },
+      {
+        "title": "VÍNCULO DE ALMAS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13537"
+          }
+        ]
+      },
+      {
+        "title": "PAIXÃO EM MEIO AO PERIGO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13579"
+          }
+        ]
+      },
+      {
+        "title": "AMOR NO FIM DO MUNDO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13599"
+          }
+        ]
+      },
+      {
+        "title": "RENASCER AO SEU LADO (2026)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/13770"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/13888"
+          }
+        ]
+      },
+      {
+        "title": "ADEUS, JIANG YE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14241"
+          }
+        ]
+      },
+      {
+        "title": "BONS SONHOS ENCHEM A CASA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14585"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Lu Lulu",
+    "kind": "Atriz",
+    "image": "/artists/lu-lulu.webp",
+    "dramas": [
+      {
+        "title": "O CEO FANTASMA E O ROMANCE COM YAN QINGYUE (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3835"
+          }
+        ]
+      },
+      {
+        "title": "ENTRE DEVER E DESEJO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4181"
+          }
+        ]
+      },
+      {
+        "title": "HERDEIROS OCULTOS NO AMOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4458"
+          }
+        ]
+      },
+      {
+        "title": "AMOR NO MILÊNIO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4466"
+          }
+        ]
+      },
+      {
+        "title": "SEU NOME NO MEU DESTINO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4964"
+          }
+        ]
+      },
+      {
+        "title": "ARMADILHA DE AMOR (2024)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/5095"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12644"
+          }
+        ]
+      },
+      {
+        "title": "IMPERATRIZ RENASCIDA DESTINO AO TRONO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5103"
+          }
+        ]
+      },
+      {
+        "title": "QUANDO O CORAÇÃO DECIDE SE CASAR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5452"
+          }
+        ]
+      },
+      {
+        "title": "O AMOR QUE ESPEROU POR ELA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6910"
+          }
+        ]
+      },
+      {
+        "title": "CORAÇÃO TATUADO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8239"
+          }
+        ]
+      },
+      {
+        "title": "MEU EX É O DOUTOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9668"
+          }
+        ]
+      },
+      {
+        "title": "DESTINADOS UM AO OUTRO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11236"
+          }
+        ]
+      },
+      {
+        "title": "DESTINO FORÇADO COM O JOVEM MARECHAL (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11264"
+          }
+        ]
+      },
+      {
+        "title": "AS CAMÉLIAS FLORESCEM (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12018"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/12020"
+          }
+        ]
+      },
+      {
+        "title": "ROSAS E PINHEIRO PARA VOCÊ (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12176"
+          }
+        ]
+      },
+      {
+        "title": "SETE PRIMAVERAS DEPOIS, O AMOR VOLTOU (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12553"
+          }
+        ]
+      },
+      {
+        "title": "O HERDEIRO PERIGOSO CAIU PELA MULHER QUE O USAVA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13187"
+          }
+        ]
+      },
+      {
+        "title": "CASEI COM MEU EX (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14165"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Li Ruoqi",
+    "kind": "Atriz",
+    "image": "/artists/li-ruoqi.webp",
+    "dramas": [
+      {
+        "title": "Respostas 1937",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13638"
+          }
+        ]
+      },
+      {
+        "title": "Seus Lábios Ardentes",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13126"
+          }
+        ]
+      },
+      {
+        "title": "Meu Marido Frio Virou Meu Maior Protetor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11177"
+          }
+        ]
+      },
+      {
+        "title": "Do Contrato ao Amor",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/7458"
+          },
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/11067"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/8203"
+          }
+        ]
+      },
+      {
+        "title": "Fogo Selvagem Queima a Júlia",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9057"
+          }
+        ]
+      },
+      {
+        "title": "As Artimanhas do Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6218"
+          }
+        ]
+      },
+      {
+        "title": "Senhor Mo, O Superprotetor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6061"
+          }
+        ]
+      },
+      {
+        "title": "Calor da Noite",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7347"
+          }
+        ]
+      },
+      {
+        "title": "A Empregada do CEO",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6771"
+          }
+        ]
+      },
+      {
+        "title": "Devoção Enredada",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6463"
+          }
+        ]
+      },
+      {
+        "title": "Minha Esposa Não Lembra de Mim",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1836"
+          }
+        ]
+      },
+      {
+        "title": "My Call Boy is Actually a Billionare",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/846"
+          }
+        ]
+      },
+      {
+        "title": "A Vingança da Filha Fantasma",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2511"
+          }
+        ]
+      },
+      {
+        "title": "Divorciada, Diretora de Volta",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13721"
+          }
+        ]
+      },
+      {
+        "title": "O Banquete Fatal",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10949"
+          }
+        ]
+      },
+      {
+        "title": "Papai Renda-se Aos Quatros Trovejantes",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4936"
+          }
+        ]
+      },
+      {
+        "title": "Os Cincos Tesouros de Gervásio - Chen Si",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10688"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Yao Guanyu",
+    "kind": "Ator",
+    "image": "/artists/yao-guanyu.webp",
+    "dramas": [
+      {
+        "title": "Justamente de Você Que Eu Gosto",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14270"
+          }
+        ]
+      },
+      {
+        "title": "Luz na Vastidão",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/13833"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14199"
+          }
+        ]
+      },
+      {
+        "title": "Paixão em Meio ao Perigo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13579"
+          }
+        ]
+      },
+      {
+        "title": "Escondendo o Amor do Irmão",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13228"
+          }
+        ]
+      },
+      {
+        "title": "Cheiro de Osso",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11942"
+          }
+        ]
+      },
+      {
+        "title": "Capitão Jiang, Contenha-se!",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11917"
+          }
+        ]
+      },
+      {
+        "title": "Máscara do Assassino",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10420"
+          }
+        ]
+      },
+      {
+        "title": "Amor Selvagem, Desejo Anestesiado",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9732"
+          }
+        ]
+      },
+      {
+        "title": "Doce Amargo da Juventude",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1453748726/26908"
+          }
+        ]
+      },
+      {
+        "title": "Meu Desapego a 10.000 metros Acima do Chão",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12730"
+          }
+        ]
+      },
+      {
+        "title": "Abraçando o Luar",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12357"
+          }
+        ]
+      },
+      {
+        "title": "Sr. Victor me ama em Segredo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8229"
+          }
+        ]
+      },
+      {
+        "title": "Resgatado pelo amor do destino",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4321"
+          }
+        ]
+      },
+      {
+        "title": "Gentileza sob fogo cruzado",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4309"
+          }
+        ]
+      },
+      {
+        "title": "Amor e Veneno | Rasgando a Noite",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4303"
+          }
+        ]
+      },
+      {
+        "title": "Domando o magnata impiedoso",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3972"
+          }
+        ]
+      },
+      {
+        "title": "Voando com você",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3525"
+          }
+        ]
+      },
+      {
+        "title": "Roubo de coração: um amor escondido",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3521"
+          }
+        ]
+      },
+      {
+        "title": "Entre Balas e Desejos",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7243"
+          }
+        ]
+      },
+      {
+        "title": "De Encontro às Cegas à Felicidade Bilionária",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/975"
+          }
+        ]
+      },
+      {
+        "title": "Vem Cá, Deixa eu Te Acalmar",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11783"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Yang Pengcheng",
+    "kind": "Ator",
+    "image": "/artists/yang-pengcheng.webp",
+    "dramas": [
+      {
+        "title": "Especialistas do Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14144"
+          }
+        ]
+      },
+      {
+        "title": "Quando Encontrei Ying",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13707"
+          }
+        ]
+      },
+      {
+        "title": "A Verdadeira Herdeira Conquistou a Capital",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13766"
+          }
+        ]
+      },
+      {
+        "title": "Cartas de Amor Para Amanhã",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13341"
+          }
+        ]
+      },
+      {
+        "title": "Livre Como o Mar",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/9456"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/13248"
+          },
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/14790"
+          }
+        ]
+      },
+      {
+        "title": "Fora de Ordem: o Amor",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12710"
+          }
+        ]
+      },
+      {
+        "title": "A Golpista e o Herdeiro Fugitivo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11165"
+          }
+        ]
+      },
+      {
+        "title": "Descaradamente",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8718"
+          }
+        ]
+      },
+      {
+        "title": "Fogo e Gelo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7410"
+          }
+        ]
+      },
+      {
+        "title": "Roubando Um Vislumbre de Luz",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6138"
+          }
+        ]
+      },
+      {
+        "title": "A Mulher Extraordinária",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/13124"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14798"
+          }
+        ]
+      },
+      {
+        "title": "Depois de Fugir com Minha Amiga, Ele Surta",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14408"
+          }
+        ]
+      },
+      {
+        "title": "Apaixonado Pela Filha do Inimigo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9001"
+          }
+        ]
+      },
+      {
+        "title": "Casamento com o Último Deus",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7235"
+          }
+        ]
+      },
+      {
+        "title": "Engano do Destino",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9979"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Song Chen",
+    "kind": "Ator",
+    "image": "/artists/song-chen.webp",
+    "dramas": [
+      {
+        "title": "PRIMEIRO AMOR, ÚLTIMA ESCOLHA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/997"
+          }
+        ]
+      },
+      {
+        "title": "ESPOSA TROFÉU? ELA É A PRÓPRIA FORTUNA! (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1270"
+          }
+        ]
+      },
+      {
+        "title": "QUANDO O DEMÔNIO CAI NO AMOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1873"
+          }
+        ]
+      },
+      {
+        "title": "SONHO DENTRO DE UM SONHO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2163"
+          }
+        ]
+      },
+      {
+        "title": "MENTIRAS NO AMOR, VERDADE NO ÓDIO (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/3483"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/5508"
+          }
+        ]
+      },
+      {
+        "title": "ANTES DA TEMPESTADE O AMOR (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/3826"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/3709"
+          }
+        ]
+      },
+      {
+        "title": "RENASCIDA E AMADA PELO RIVAL (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4114"
+          }
+        ]
+      },
+      {
+        "title": "PRESIDENTE A SUA ESPOSA ESTÁ GRÁVIDA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4402"
+          }
+        ]
+      },
+      {
+        "title": "O MONARCA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4669"
+          }
+        ]
+      },
+      {
+        "title": "APÓS  TRÊS ANOS DE VIUVEZ, O PAI DO BEBÊ VEIO REINVINDICAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4906"
+          }
+        ]
+      },
+      {
+        "title": "A HERDEIRA MALVADA E O MAGNATA DE PEQUIM (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5290"
+          }
+        ]
+      },
+      {
+        "title": "ELE ANADONOU-ME NO DESERTO POR ELA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6049"
+          }
+        ]
+      },
+      {
+        "title": "DOCE HISTÓRIA DE AMOR (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6485"
+          }
+        ]
+      },
+      {
+        "title": "CASEI E ENTREI NO JOGO DOS MILHÕES (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7257"
+          }
+        ]
+      },
+      {
+        "title": "DESTA VEZ EU NÃO PERDOO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8266"
+          }
+        ]
+      },
+      {
+        "title": "CIÚMES E MORTE, SEGUNDA CHANCE (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10485"
+          }
+        ]
+      },
+      {
+        "title": "O AMOR DELE É MINHA PRISÃO MAIS PERIGOSA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10637"
+          }
+        ]
+      },
+      {
+        "title": "A MADRASTA CONTRATADA MUDOU A FAMÍLIA INTEIRA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12839"
+          }
+        ]
+      },
+      {
+        "title": "JÁ QUE RENASCI, NÃO VOU MAIS FINGIR (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13429"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Zhong Xi",
+    "kind": "Atriz",
+    "image": "/artists/zhong-xi.webp",
+    "dramas": [
+      {
+        "title": "CASAMENTO POR ENGANO, A IRMÃ VOLTA PARA SE VINGAR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3503"
+          }
+        ]
+      },
+      {
+        "title": "UMA NOITE ESQUECIDA E SEGUNDA CHANCE COM O CEO (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4189"
+          }
+        ]
+      },
+      {
+        "title": "A GENERAL ESTÁ DE VOLTA: NENHUMA REGRA, NENHUM PROBLEMA (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/5004"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/9995"
+          }
+        ]
+      },
+      {
+        "title": "À ESPERA DE UM VENTO DE PARIS (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5286"
+          }
+        ]
+      },
+      {
+        "title": "QUE O CREPÚSCULO NÃO ENGULA O SOL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5956"
+          }
+        ]
+      },
+      {
+        "title": "ENTRE POSSE E MAOR (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6852"
+          }
+        ]
+      },
+      {
+        "title": "QUANDO A MENTIRA VIRA DESEJO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7502"
+          }
+        ]
+      },
+      {
+        "title": "IRMÃ, ACEITA ESSE PRESENTE? (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7720"
+          }
+        ]
+      },
+      {
+        "title": "DA CHAMA, O CANTO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8346"
+          }
+        ]
+      },
+      {
+        "title": "CLUBE DA COBERTURA (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11083"
+          }
+        ]
+      },
+      {
+        "title": "DESTINO DE SANGUE (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12971"
+          }
+        ]
+      },
+      {
+        "title": "A REVIRAVOLTA DO DESTINO DA CIGANA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13331"
+          }
+        ]
+      },
+      {
+        "title": "POR FAVOR! EU QUERO VOLTAR PARA O PALÁCIO FRIO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13333"
+          }
+        ]
+      },
+      {
+        "title": "ELA QUEM MANDA (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/13474"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizada por GAL - @GAL_HUAYUAN em 21/10/2026"
+  },
+  {
+    "name": "Lan Bo",
+    "kind": "Ator",
+    "image": "/artists/lan-bo.webp",
+    "dramas": [
+      {
+        "title": "Atravessando o tempo para te deixar",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14531"
+          }
+        ]
+      },
+      {
+        "title": "Pedi o Divórcio e Ele Se Arrependeu",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/13565"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/14081"
+          }
+        ]
+      },
+      {
+        "title": "Sussuros na Escuridão",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12959"
+          }
+        ]
+      },
+      {
+        "title": "Meu Chefe Frio Virou Meu Vício",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11075"
+          }
+        ]
+      },
+      {
+        "title": "O Renascimento da Irmã",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10678"
+          }
+        ]
+      },
+      {
+        "title": "Meu Ex Virou Meu Advogado de Divórcio",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10594"
+          }
+        ]
+      },
+      {
+        "title": "Amor Eterno",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5576"
+          }
+        ]
+      },
+      {
+        "title": "Socorro! Onde Foi Parar o Meu Marido Gentil?",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14337"
+          }
+        ]
+      },
+      {
+        "title": "Ela e o Demônio",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/10635"
+          }
+        ]
+      },
+      {
+        "title": "Sua Majestade Está Doente",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8575"
+          }
+        ]
+      },
+      {
+        "title": "Depois de Renascer, Ele Correu Atrás Como Um Louco",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/7062"
+          }
+        ]
+      },
+      {
+        "title": "Todos os Olhares Para Ela",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9116"
+          }
+        ]
+      },
+      {
+        "title": "Ganhar Nova Vida",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8159"
+          }
+        ]
+      },
+      {
+        "title": "O Destino Forçado com O Jovem Marechal",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11264"
+          }
+        ]
+      },
+      {
+        "title": "No Limiar da Loucura",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1405"
+          },
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5984"
+          }
+        ]
+      },
+      {
+        "title": "Costura de Sedução",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4315"
+          }
+        ]
+      },
+      {
+        "title": "Beijo Enganoso",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2389"
+          }
+        ]
+      },
+      {
+        "title": "Paixão Intensa",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9807"
+          }
+        ]
+      },
+      {
+        "title": "Entre Dever e Desejo",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4181"
+          }
+        ]
+      },
+      {
+        "title": "Casamento às Pressas com o Príncipe Impiedoso",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/3108"
+          }
+        ]
+      },
+      {
+        "title": "Sangue Real, Fúria da Serva",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/2460"
+          }
+        ]
+      },
+      {
+        "title": "Depois da Tempestade",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/11536"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/11538"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por Marcia Chiodi C - @marciacolla em 21/10/2026"
+  },
+  {
+    "name": "Yang Yilu (Miemie)",
+    "kind": "Atriz",
+    "image": "/artists/yang-yilu-miemie.webp",
+    "dramas": [
+      {
+        "title": "Meu Anjo na Neve",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/1023"
+          }
+        ]
+      },
+      {
+        "title": "Quando você chegou era Primavera (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/4944"
+          }
+        ]
+      },
+      {
+        "title": "Uma noite de Verão (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5594"
+          }
+        ]
+      },
+      {
+        "title": "Tarde para o Coração Bater (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5602"
+          }
+        ]
+      },
+      {
+        "title": "Sr. Lu, Sua Esposa Ambiciosa Assume o Comando (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/5863"
+          }
+        ]
+      },
+      {
+        "title": "Abraço sob a Lua (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/6844"
+          }
+        ]
+      },
+      {
+        "title": "Renascida ao Lado da Vilã (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/8766"
+          }
+        ]
+      },
+      {
+        "title": "Casada Inesperadamente com o CEO (2024)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/9764"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/9762"
+          }
+        ]
+      },
+      {
+        "title": "Paixão Intensa (2024)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/9807"
+          }
+        ]
+      },
+      {
+        "title": "Contrato de Corações (2025)",
+        "links": [
+          {
+            "label": "Legendado",
+            "url": "https://t.me/c/1440437235/11283"
+          },
+          {
+            "label": "Dublado",
+            "url": "https://t.me/c/1440437235/11228"
+          }
+        ]
+      },
+      {
+        "title": "A SRA. GU É UMA LADY IMPECÁVEL (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/11676"
+          }
+        ]
+      },
+      {
+        "title": "UM AMOR DE MIL ANOS (2025)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12087"
+          }
+        ]
+      },
+      {
+        "title": "A NOIVA FAZENDEIRA DO CAPITÃO LI (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/12508"
+          }
+        ]
+      },
+      {
+        "title": "DEPOIS DO CASAMENTO DEI A ELE PAZ DE ESPÍRITO",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14146"
+          }
+        ]
+      },
+      {
+        "title": "O SR. GU NÃO MANDA NO PRÓPRIO CORAÇÃO (2026)",
+        "links": [
+          {
+            "label": "Telegram",
+            "url": "https://t.me/c/1440437235/14884"
+          }
+        ]
+      }
+    ],
+    "credit": "Atualizado por GAL - BY @GAL_HUAYUAN em 21/10/2026"
   }
 ];
 window.CATALOG_DRAMAS = [
@@ -21356,7 +23763,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21368,7 +23776,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21380,7 +23789,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21392,7 +23802,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21404,7 +23815,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21416,7 +23828,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21428,7 +23841,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21452,7 +23866,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21468,7 +23883,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21480,7 +23896,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21492,7 +23909,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21504,7 +23922,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21528,7 +23947,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21540,7 +23960,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21552,7 +23973,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21564,7 +23986,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21576,7 +23999,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21588,7 +24012,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21612,7 +24037,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21624,7 +24050,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21652,7 +24079,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21664,7 +24092,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21676,7 +24105,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21688,7 +24118,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21700,7 +24131,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21712,7 +24144,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21724,7 +24157,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21736,7 +24170,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21748,7 +24183,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21772,7 +24208,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21784,7 +24221,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Homens obcecados"
+      "Homens obcecados",
+      "Homens Obcecados"
     ]
   },
   {
@@ -21796,7 +24234,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21808,7 +24247,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21820,7 +24260,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21832,7 +24273,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21844,7 +24286,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21856,7 +24299,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21868,7 +24312,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21880,7 +24325,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21892,7 +24338,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21916,7 +24363,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21928,7 +24376,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21940,7 +24389,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21952,7 +24402,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21964,7 +24415,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21976,7 +24428,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -21988,7 +24441,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22000,7 +24454,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22012,7 +24467,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22024,7 +24480,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22036,7 +24493,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22048,7 +24506,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22060,7 +24519,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22072,7 +24532,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22084,7 +24545,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22096,7 +24558,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22108,7 +24571,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22132,7 +24596,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22144,7 +24609,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22156,7 +24622,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22168,7 +24635,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22192,7 +24660,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22204,7 +24673,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22216,7 +24686,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22228,7 +24699,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Enemies to lovers"
+      "Enemies to lovers",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22240,7 +24712,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Máfia"
+      "Máfia",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22264,7 +24737,8 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Máfia"
+      "Máfia",
+      "Enemies to Lovers"
     ]
   },
   {
@@ -22596,7 +25070,9 @@ window.CATALOG_DRAMAS = [
       }
     ],
     "themes": [
-      "Máfia"
+      "Máfia",
+      "Enemies to Lovers",
+      "Homens Obcecados"
     ]
   },
   {
@@ -24198,7 +26674,8 @@ window.CATALOG_DRAMAS = [
     ],
     "year": 2026,
     "themes": [
-      "Feitos por IA"
+      "Feitos por IA",
+      "Máfia"
     ]
   },
   {

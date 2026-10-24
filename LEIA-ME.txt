@@ -1,0 +1,3 @@
+CORREÇÃO SEGURA: Wang Haozhen removido como perfil duplicado. Wang Haozhen (Ben Wang) preservado com 34 dramas e crédito de 21/10/2026. Nenhum link exclusivo foi perdido. 132 perfis no total.
+ATENÇÃO: As notas de Xia Ningjun, Wang Daotie e Zhang Jiawei foram ignoradas na IMPORTAÇÃO RECENTE, mas seus perfis antigos permanecem no catálogo. Ainda é necessária nova auditoria do Takeout completo para garantir todos os novos perfis.
+Substituir catalogo.js no GitHub; outros arquivos mantidos.
